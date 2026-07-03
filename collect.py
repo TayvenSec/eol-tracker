@@ -35,7 +35,6 @@ PRODUCTS = {
     "ubuntu":             "Ubuntu",
     "debian":             "Debian",
     "rhel":               "Red Hat Enterprise Linux",
-    "chrome-os":          "ChromeOS",
     # Network / infrastructure
     "pan-os":             "PAN-OS (Palo Alto)",
     "cisco-ios-xe":       "Cisco IOS XE",
@@ -45,8 +44,8 @@ PRODUCTS = {
     "nodejs":             "Node.js",
     "postgresql":         "PostgreSQL",
     "mysql":              "MySQL",
-    "exchange-server":    "Microsoft Exchange Server",
-    "sql-server":         "Microsoft SQL Server",
+    "msexchange":    "Microsoft Exchange Server",
+    "mssqlserver":         "Microsoft SQL Server",
     "office":             "Microsoft Office",
     "vmware-esxi":        "VMware ESXi",
 }
