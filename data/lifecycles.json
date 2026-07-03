@@ -1,0 +1,3139 @@
+{
+  "checked_at": "2026-07-03T10:02:46.162675Z",
+  "date": "2026-07-03",
+  "products": {
+    "windows": {
+      "display": "Windows",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "11-26h1-e",
+          "label": "11 26H1 (E)",
+          "eol": "2029-03-13",
+          "status": "SUPPORTED",
+          "days_until_eol": 984,
+          "latest": "10.0.28000"
+        },
+        {
+          "cycle": "11-26h1-w",
+          "label": "11 26H1 (W)",
+          "eol": "2028-03-14",
+          "status": "SUPPORTED",
+          "days_until_eol": 620,
+          "latest": "10.0.28000"
+        },
+        {
+          "cycle": "11-25h2-e",
+          "label": "11 25H2 (E)",
+          "eol": "2028-10-10",
+          "status": "SUPPORTED",
+          "days_until_eol": 830,
+          "latest": "10.0.26200"
+        },
+        {
+          "cycle": "11-25h2-w",
+          "label": "11 25H2 (W)",
+          "eol": "2027-10-12",
+          "status": "SUPPORTED",
+          "days_until_eol": 466,
+          "latest": "10.0.26200"
+        },
+        {
+          "cycle": "11-24h2-iot-lts",
+          "label": "11 24H2 IoT",
+          "eol": "2034-10-10",
+          "status": "SUPPORTED",
+          "days_until_eol": 3021,
+          "latest": "10.0.26100"
+        },
+        {
+          "cycle": "11-24h2-e-lts",
+          "label": "11 24H2 (E)",
+          "eol": "2029-10-09",
+          "status": "SUPPORTED",
+          "days_until_eol": 1194,
+          "latest": "10.0.26100"
+        },
+        {
+          "cycle": "11-24h2-e",
+          "label": "11 24H2 (E)",
+          "eol": "2027-10-12",
+          "status": "SUPPORTED",
+          "days_until_eol": 466,
+          "latest": "10.0.26100"
+        },
+        {
+          "cycle": "11-24h2-w",
+          "label": "11 24H2 (W)",
+          "eol": "2026-10-13",
+          "status": "SUPPORTED",
+          "days_until_eol": 102,
+          "latest": "10.0.26100"
+        },
+        {
+          "cycle": "11-23h2-e",
+          "label": "11 23H2 (E)",
+          "eol": "2026-11-10",
+          "status": "SUPPORTED",
+          "days_until_eol": 130,
+          "latest": "10.0.22631"
+        },
+        {
+          "cycle": "11-23h2-w",
+          "label": "11 23H2 (W)",
+          "eol": "2025-11-11",
+          "status": "EOL",
+          "days_until_eol": -234,
+          "latest": "10.0.22631"
+        },
+        {
+          "cycle": "10-22h2",
+          "label": "10 22H2",
+          "eol": "2025-10-14",
+          "status": "EOL",
+          "days_until_eol": -262,
+          "latest": "10.0.19045"
+        },
+        {
+          "cycle": "11-22h2-e",
+          "label": "11 22H2 (E)",
+          "eol": "2025-10-14",
+          "status": "EOL",
+          "days_until_eol": -262,
+          "latest": "10.0.22621"
+        },
+        {
+          "cycle": "11-22h2-w",
+          "label": "11 22H2 (W)",
+          "eol": "2024-10-08",
+          "status": "EOL",
+          "days_until_eol": -633,
+          "latest": "10.0.22621"
+        },
+        {
+          "cycle": "10-21h2-iot-lts",
+          "label": "10 21H2 IoT",
+          "eol": "2032-01-13",
+          "status": "SUPPORTED",
+          "days_until_eol": 2020,
+          "latest": "10.0.19044"
+        },
+        {
+          "cycle": "10-21h2-e-lts",
+          "label": "10 21H2 (E)",
+          "eol": "2027-01-12",
+          "status": "SUPPORTED",
+          "days_until_eol": 193,
+          "latest": "10.0.19044"
+        },
+        {
+          "cycle": "10-21h2-e",
+          "label": "10 21H2 (E)",
+          "eol": "2024-06-11",
+          "status": "EOL",
+          "days_until_eol": -752,
+          "latest": "10.0.19044"
+        },
+        {
+          "cycle": "10-21h2-w",
+          "label": "10 21H2 (W)",
+          "eol": "2023-06-13",
+          "status": "EOL",
+          "days_until_eol": -1116,
+          "latest": "10.0.19044"
+        },
+        {
+          "cycle": "11-21h2-e",
+          "label": "11 21H2 (E)",
+          "eol": "2024-10-08",
+          "status": "EOL",
+          "days_until_eol": -633,
+          "latest": "10.0.22000"
+        },
+        {
+          "cycle": "11-21h2-w",
+          "label": "11 21H2 (W)",
+          "eol": "2023-10-10",
+          "status": "EOL",
+          "days_until_eol": -997,
+          "latest": "10.0.22000"
+        },
+        {
+          "cycle": "10-21h1",
+          "label": "10 21H1",
+          "eol": "2022-12-13",
+          "status": "EOL",
+          "days_until_eol": -1298,
+          "latest": "10.0.19043"
+        },
+        {
+          "cycle": "10-20h2-e",
+          "label": "10 20H2 (E)",
+          "eol": "2023-05-09",
+          "status": "EOL",
+          "days_until_eol": -1151,
+          "latest": "10.0.19042"
+        },
+        {
+          "cycle": "10-20h2-w",
+          "label": "10 20H2 (W)",
+          "eol": "2022-05-10",
+          "status": "EOL",
+          "days_until_eol": -1515,
+          "latest": "10.0.19042"
+        },
+        {
+          "cycle": "10-2004",
+          "label": "10 2004",
+          "eol": "2021-12-14",
+          "status": "EOL",
+          "days_until_eol": -1662,
+          "latest": "10.0.19041"
+        },
+        {
+          "cycle": "10-1909-e",
+          "label": "10 1909 (E)",
+          "eol": "2022-05-10",
+          "status": "EOL",
+          "days_until_eol": -1515,
+          "latest": "10.0.18363"
+        },
+        {
+          "cycle": "10-1909-w",
+          "label": "10 1909 (W)",
+          "eol": "2021-05-11",
+          "status": "EOL",
+          "days_until_eol": -1879,
+          "latest": "10.0.18363"
+        },
+        {
+          "cycle": "10-1903",
+          "label": "10 1903",
+          "eol": "2020-12-08",
+          "status": "EOL",
+          "days_until_eol": -2033,
+          "latest": "10.0.18362"
+        },
+        {
+          "cycle": "10-1809-e-lts",
+          "label": "10 1809 (E)",
+          "eol": "2029-01-09",
+          "status": "SUPPORTED",
+          "days_until_eol": 921,
+          "latest": "10.0.17763"
+        },
+        {
+          "cycle": "10-1809-e",
+          "label": "10 1809 (E)",
+          "eol": "2021-05-11",
+          "status": "EOL",
+          "days_until_eol": -1879,
+          "latest": "10.0.17763"
+        },
+        {
+          "cycle": "10-1809-w",
+          "label": "10 1809 (W)",
+          "eol": "2020-11-10",
+          "status": "EOL",
+          "days_until_eol": -2061,
+          "latest": "10.0.17763"
+        },
+        {
+          "cycle": "10-1803-e",
+          "label": "10 1803 (E)",
+          "eol": "2021-05-11",
+          "status": "EOL",
+          "days_until_eol": -1879,
+          "latest": "10.0.17134"
+        },
+        {
+          "cycle": "10-1803-w",
+          "label": "10 1803 (W)",
+          "eol": "2019-11-12",
+          "status": "EOL",
+          "days_until_eol": -2425,
+          "latest": "10.0.17134"
+        },
+        {
+          "cycle": "10-1709-e",
+          "label": "10 1709 (E)",
+          "eol": "2020-10-13",
+          "status": "EOL",
+          "days_until_eol": -2089,
+          "latest": "10.0.16299"
+        },
+        {
+          "cycle": "10-1709-w",
+          "label": "10 1709 (W)",
+          "eol": "2019-04-09",
+          "status": "EOL",
+          "days_until_eol": -2642,
+          "latest": "10.0.16299"
+        },
+        {
+          "cycle": "10-1703-e",
+          "label": "10 1703 (E)",
+          "eol": "2019-10-08",
+          "status": "EOL",
+          "days_until_eol": -2460,
+          "latest": "10.0.15063"
+        },
+        {
+          "cycle": "10-1703-w",
+          "label": "10 1703 (W)",
+          "eol": "2018-10-09",
+          "status": "EOL",
+          "days_until_eol": -2824,
+          "latest": "10.0.15063"
+        },
+        {
+          "cycle": "10-1607-e-lts",
+          "label": "10 1607 (E)",
+          "eol": "2026-10-13",
+          "status": "SUPPORTED",
+          "days_until_eol": 102,
+          "latest": "10.0.14393"
+        },
+        {
+          "cycle": "10-1607-e",
+          "label": "10 1607 (E)",
+          "eol": "2019-04-09",
+          "status": "EOL",
+          "days_until_eol": -2642,
+          "latest": "10.0.14393"
+        },
+        {
+          "cycle": "10-1607-w",
+          "label": "10 1607 (W)",
+          "eol": "2018-04-10",
+          "status": "EOL",
+          "days_until_eol": -3006,
+          "latest": "10.0.14393"
+        },
+        {
+          "cycle": "10-1511",
+          "label": "10 1511",
+          "eol": "2017-10-10",
+          "status": "EOL",
+          "days_until_eol": -3188,
+          "latest": "10.0.10586"
+        },
+        {
+          "cycle": "10-1507-e-lts",
+          "label": "10 1507 (E)",
+          "eol": "2025-10-14",
+          "status": "EOL",
+          "days_until_eol": -262,
+          "latest": "10.0.10240"
+        },
+        {
+          "cycle": "10-1507",
+          "label": "10 1507",
+          "eol": "2017-05-09",
+          "status": "EOL",
+          "days_until_eol": -3342,
+          "latest": "10.0.10240"
+        },
+        {
+          "cycle": "10-1507-iot",
+          "label": "10 1507 IOT",
+          "eol": "2020-11-10",
+          "status": "EOL",
+          "days_until_eol": -2061,
+          "latest": "10.0.10240"
+        },
+        {
+          "cycle": "8.1",
+          "label": "8.1",
+          "eol": "2023-01-10",
+          "status": "EOL",
+          "days_until_eol": -1270,
+          "latest": "6.3.9600"
+        },
+        {
+          "cycle": "8",
+          "label": "8",
+          "eol": "2016-01-12",
+          "status": "EOL",
+          "days_until_eol": -3825,
+          "latest": "6.2.9200"
+        },
+        {
+          "cycle": "7-sp1",
+          "label": "7 SP1",
+          "eol": "2020-01-14",
+          "status": "EOL",
+          "days_until_eol": -2362,
+          "latest": "6.1.7601"
+        },
+        {
+          "cycle": "6-sp2",
+          "label": "Vista SP2",
+          "eol": "2017-04-11",
+          "status": "EOL",
+          "days_until_eol": -3370,
+          "latest": "6.0.6200"
+        },
+        {
+          "cycle": "5-sp3",
+          "label": "XP SP3",
+          "eol": "2014-04-08",
+          "status": "EOL",
+          "days_until_eol": -4469,
+          "latest": "5.1.2600"
+        }
+      ]
+    },
+    "windows-server": {
+      "display": "Windows Server",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "2025",
+          "label": "Windows Server 2025",
+          "eol": "2034-10-10",
+          "status": "SUPPORTED",
+          "days_until_eol": 3021,
+          "latest": "10.0.26100"
+        },
+        {
+          "cycle": "23h2-ac",
+          "label": "Windows Server 23H2 AC",
+          "eol": "2025-10-24",
+          "status": "EOL",
+          "days_until_eol": -252,
+          "latest": "10.0.25398"
+        },
+        {
+          "cycle": "2022",
+          "label": "Windows Server 2022",
+          "eol": "2031-10-14",
+          "status": "SUPPORTED",
+          "days_until_eol": 1929,
+          "latest": "10.0.20348"
+        },
+        {
+          "cycle": "20h2-sac",
+          "label": "Windows Server 20H2 SAC",
+          "eol": "2022-08-09",
+          "status": "EOL",
+          "days_until_eol": -1424,
+          "latest": "10.0.19042"
+        },
+        {
+          "cycle": "2004-sac",
+          "label": "Windows Server 2004 SAC",
+          "eol": "2021-12-14",
+          "status": "EOL",
+          "days_until_eol": -1662,
+          "latest": "10.0.19041"
+        },
+        {
+          "cycle": "1909-sac",
+          "label": "Windows Server 1909 SAC",
+          "eol": "2021-05-11",
+          "status": "EOL",
+          "days_until_eol": -1879,
+          "latest": "10.0.18363"
+        },
+        {
+          "cycle": "1903-sac",
+          "label": "Windows Server 1903 SAC",
+          "eol": "2020-12-08",
+          "status": "EOL",
+          "days_until_eol": -2033,
+          "latest": "10.0.18362"
+        },
+        {
+          "cycle": "1809-sac",
+          "label": "Windows Server 1809 SAC",
+          "eol": "2020-11-10",
+          "status": "EOL",
+          "days_until_eol": -2061,
+          "latest": "10.0.17763"
+        },
+        {
+          "cycle": "2019",
+          "label": "Windows Server 2019",
+          "eol": "2029-01-09",
+          "status": "SUPPORTED",
+          "days_until_eol": 921,
+          "latest": "10.0.17763"
+        },
+        {
+          "cycle": "1803-sac",
+          "label": "Windows Server 1803 SAC",
+          "eol": "2019-11-12",
+          "status": "EOL",
+          "days_until_eol": -2425,
+          "latest": "10.0.17134"
+        },
+        {
+          "cycle": "1709-sac",
+          "label": "Windows Server 1709 SAC",
+          "eol": "2019-04-09",
+          "status": "EOL",
+          "days_until_eol": -2642,
+          "latest": "10.0.16299"
+        },
+        {
+          "cycle": "2016",
+          "label": "Windows Server 2016",
+          "eol": "2027-01-12",
+          "status": "SUPPORTED",
+          "days_until_eol": 193,
+          "latest": "10.0.14393"
+        },
+        {
+          "cycle": "2012-r2",
+          "label": "Windows Server 2012 R2",
+          "eol": "2023-10-10",
+          "status": "EOL",
+          "days_until_eol": -997,
+          "latest": "6.3.9600"
+        },
+        {
+          "cycle": "2012",
+          "label": "Windows Server 2012",
+          "eol": "2023-10-10",
+          "status": "EOL",
+          "days_until_eol": -997,
+          "latest": "6.2.9200"
+        },
+        {
+          "cycle": "2008-r2-sp1",
+          "label": "Windows Server 2008 R2 SP1",
+          "eol": "2020-01-14",
+          "status": "EOL",
+          "days_until_eol": -2362,
+          "latest": "6.1.7601"
+        },
+        {
+          "cycle": "2008-sp2",
+          "label": "Windows Server 2008 SP2",
+          "eol": "2020-01-14",
+          "status": "EOL",
+          "days_until_eol": -2362,
+          "latest": "6.0.6003"
+        },
+        {
+          "cycle": "2003-sp2",
+          "label": "Windows Server 2003 SP2",
+          "eol": "2015-07-14",
+          "status": "EOL",
+          "days_until_eol": -4007,
+          "latest": "5.2.3790"
+        },
+        {
+          "cycle": "2003-sp1",
+          "label": "Windows Server 2003 SP1",
+          "eol": "2009-04-14",
+          "status": "EOL",
+          "days_until_eol": -6289,
+          "latest": "5.2.3790"
+        },
+        {
+          "cycle": "2003",
+          "label": "Windows Server 2003",
+          "eol": "2007-04-10",
+          "status": "EOL",
+          "days_until_eol": -7024,
+          "latest": "5.2.3790"
+        },
+        {
+          "cycle": "2000",
+          "label": "Windows Server 2000",
+          "eol": "2010-07-13",
+          "status": "EOL",
+          "days_until_eol": -5834,
+          "latest": "5.0.2195"
+        }
+      ]
+    },
+    "macos": {
+      "display": "macOS",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "26",
+          "label": "macOS 26",
+          "eol": "none",
+          "status": "SUPPORTED",
+          "days_until_eol": null,
+          "latest": "26.5.2"
+        },
+        {
+          "cycle": "15",
+          "label": "macOS 15",
+          "eol": "none",
+          "status": "SUPPORTED",
+          "days_until_eol": null,
+          "latest": "15.7.7"
+        },
+        {
+          "cycle": "14",
+          "label": "macOS 14",
+          "eol": "none",
+          "status": "SUPPORTED",
+          "days_until_eol": null,
+          "latest": "14.8.7"
+        },
+        {
+          "cycle": "13",
+          "label": "macOS 13",
+          "eol": "2025-09-15",
+          "status": "EOL",
+          "days_until_eol": -291,
+          "latest": "13.7.8"
+        },
+        {
+          "cycle": "12",
+          "label": "macOS 12",
+          "eol": "2024-09-16",
+          "status": "EOL",
+          "days_until_eol": -655,
+          "latest": "12.7.6"
+        },
+        {
+          "cycle": "11",
+          "label": "macOS 11",
+          "eol": "2026-02-02",
+          "status": "EOL",
+          "days_until_eol": -151,
+          "latest": "11.7.11"
+        },
+        {
+          "cycle": "10.15",
+          "label": "macOS 10.15",
+          "eol": "2026-02-02",
+          "status": "EOL",
+          "days_until_eol": -151,
+          "latest": "10.15.8"
+        },
+        {
+          "cycle": "10.14",
+          "label": "macOS 10.14",
+          "eol": "2021-10-25",
+          "status": "EOL",
+          "days_until_eol": -1712,
+          "latest": "10.14.6"
+        },
+        {
+          "cycle": "10.13",
+          "label": "macOS 10.13",
+          "eol": "2020-12-01",
+          "status": "EOL",
+          "days_until_eol": -2040,
+          "latest": "10.13.6"
+        },
+        {
+          "cycle": "10.12",
+          "label": "macOS 10.12",
+          "eol": "2019-10-01",
+          "status": "EOL",
+          "days_until_eol": -2467,
+          "latest": "10.12.6"
+        },
+        {
+          "cycle": "10.11",
+          "label": "OS X __RELEASE_CYCLE__ (__CODENAME__)",
+          "eol": "2018-12-01",
+          "status": "EOL",
+          "days_until_eol": -2771,
+          "latest": "10.11.6"
+        },
+        {
+          "cycle": "10.10",
+          "label": "OS X __RELEASE_CYCLE__ (__CODENAME__)",
+          "eol": "2017-08-01",
+          "status": "EOL",
+          "days_until_eol": -3258,
+          "latest": "10.10.5"
+        },
+        {
+          "cycle": "10.9",
+          "label": "OS X __RELEASE_CYCLE__ (__CODENAME__)",
+          "eol": "2016-12-01",
+          "status": "EOL",
+          "days_until_eol": -3501,
+          "latest": "10.9.5"
+        },
+        {
+          "cycle": "10.8",
+          "label": "OS X __RELEASE_CYCLE__ (__CODENAME__)",
+          "eol": "2015-08-13",
+          "status": "EOL",
+          "days_until_eol": -3977,
+          "latest": "10.8.5"
+        },
+        {
+          "cycle": "10.7",
+          "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
+          "eol": "2012-10-04",
+          "status": "EOL",
+          "days_until_eol": -5020,
+          "latest": "10.7.5"
+        },
+        {
+          "cycle": "10.6",
+          "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
+          "eol": "2011-07-25",
+          "status": "EOL",
+          "days_until_eol": -5457,
+          "latest": "10.6.8"
+        },
+        {
+          "cycle": "10.5",
+          "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
+          "eol": "2009-08-13",
+          "status": "EOL",
+          "days_until_eol": -6168,
+          "latest": "10.5.8"
+        },
+        {
+          "cycle": "10.4",
+          "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
+          "eol": "2007-11-14",
+          "status": "EOL",
+          "days_until_eol": -6806,
+          "latest": "10.4.11"
+        },
+        {
+          "cycle": "10.3",
+          "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
+          "eol": "2005-04-15",
+          "status": "EOL",
+          "days_until_eol": -7749,
+          "latest": "10.3.9"
+        },
+        {
+          "cycle": "10.2",
+          "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
+          "eol": "2003-10-03",
+          "status": "EOL",
+          "days_until_eol": -8309,
+          "latest": "10.2.8"
+        },
+        {
+          "cycle": "10.1",
+          "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
+          "eol": "2002-06-06",
+          "status": "EOL",
+          "days_until_eol": -8793,
+          "latest": "10.1.5"
+        },
+        {
+          "cycle": "10.0",
+          "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
+          "eol": "2001-06-22",
+          "status": "EOL",
+          "days_until_eol": -9142,
+          "latest": "10.0.4"
+        }
+      ]
+    },
+    "ios": {
+      "display": "iOS",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "26",
+          "label": "iOS 26",
+          "eol": "none",
+          "status": "SUPPORTED",
+          "days_until_eol": null,
+          "latest": "26.5.2"
+        },
+        {
+          "cycle": "18",
+          "label": "iOS 18",
+          "eol": "none",
+          "status": "SUPPORTED",
+          "days_until_eol": null,
+          "latest": "18.7.9"
+        },
+        {
+          "cycle": "17",
+          "label": "iOS 17",
+          "eol": "2024-11-19",
+          "status": "EOL",
+          "days_until_eol": -591,
+          "latest": "17.7.2"
+        },
+        {
+          "cycle": "16",
+          "label": "iOS 16",
+          "eol": "none",
+          "status": "SUPPORTED",
+          "days_until_eol": null,
+          "latest": "16.7.16"
+        },
+        {
+          "cycle": "15",
+          "label": "iOS 15",
+          "eol": "none",
+          "status": "SUPPORTED",
+          "days_until_eol": null,
+          "latest": "15.8.8"
+        },
+        {
+          "cycle": "14",
+          "label": "iOS 14",
+          "eol": "2021-10-26",
+          "status": "EOL",
+          "days_until_eol": -1711,
+          "latest": "14.8.1"
+        },
+        {
+          "cycle": "13",
+          "label": "iOS 13",
+          "eol": "2020-09-16",
+          "status": "EOL",
+          "days_until_eol": -2116,
+          "latest": "13.7"
+        },
+        {
+          "cycle": "12",
+          "label": "iOS 12",
+          "eol": "2026-01-26",
+          "status": "EOL",
+          "days_until_eol": -158,
+          "latest": "12.5.8"
+        },
+        {
+          "cycle": "11",
+          "label": "iOS 11",
+          "eol": "2018-10-08",
+          "status": "EOL",
+          "days_until_eol": -2825,
+          "latest": "11.4.1"
+        },
+        {
+          "cycle": "10",
+          "label": "iOS 10",
+          "eol": "2019-07-22",
+          "status": "EOL",
+          "days_until_eol": -2538,
+          "latest": "10.3.4"
+        },
+        {
+          "cycle": "9",
+          "label": "iOS 9",
+          "eol": "2019-07-22",
+          "status": "EOL",
+          "days_until_eol": -2538,
+          "latest": "9.3.6"
+        },
+        {
+          "cycle": "8",
+          "label": "iOS 8",
+          "eol": "2015-09-30",
+          "status": "EOL",
+          "days_until_eol": -3929,
+          "latest": "8.4.1"
+        },
+        {
+          "cycle": "7",
+          "label": "iOS 7",
+          "eol": "2014-10-20",
+          "status": "EOL",
+          "days_until_eol": -4274,
+          "latest": "7.1.2"
+        },
+        {
+          "cycle": "6",
+          "label": "iOS 6",
+          "eol": "2013-09-26",
+          "status": "EOL",
+          "days_until_eol": -4663,
+          "latest": "6.1.6"
+        },
+        {
+          "cycle": "5",
+          "label": "iOS 5",
+          "eol": "2012-11-01",
+          "status": "EOL",
+          "days_until_eol": -4992,
+          "latest": "5.1.1"
+        }
+      ]
+    },
+    "android": {
+      "display": "Android",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "17",
+          "label": "Android 17",
+          "eol": "none",
+          "status": "SUPPORTED",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "16",
+          "label": "Android 16",
+          "eol": "none",
+          "status": "SUPPORTED",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "15",
+          "label": "Android 15",
+          "eol": "none",
+          "status": "SUPPORTED",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "14",
+          "label": "Android 14",
+          "eol": "none",
+          "status": "SUPPORTED",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "13",
+          "label": "Android 13",
+          "eol": "2026-03-02",
+          "status": "EOL",
+          "days_until_eol": -123,
+          "latest": ""
+        },
+        {
+          "cycle": "12.1",
+          "label": "12.1 'Snow Cone v2' (aka 12L)",
+          "eol": "2025-03-03",
+          "status": "EOL",
+          "days_until_eol": -487,
+          "latest": ""
+        },
+        {
+          "cycle": "12",
+          "label": "Android 12",
+          "eol": "2025-03-03",
+          "status": "EOL",
+          "days_until_eol": -487,
+          "latest": ""
+        },
+        {
+          "cycle": "11",
+          "label": "Android 11",
+          "eol": "2024-02-05",
+          "status": "EOL",
+          "days_until_eol": -879,
+          "latest": ""
+        },
+        {
+          "cycle": "10",
+          "label": "Android 10",
+          "eol": "2023-03-06",
+          "status": "EOL",
+          "days_until_eol": -1215,
+          "latest": ""
+        },
+        {
+          "cycle": "9",
+          "label": "Android 9",
+          "eol": "2022-01-01",
+          "status": "EOL",
+          "days_until_eol": -1644,
+          "latest": ""
+        },
+        {
+          "cycle": "8.1",
+          "label": "Android 8.1",
+          "eol": "2021-01-10",
+          "status": "EOL",
+          "days_until_eol": -2000,
+          "latest": ""
+        },
+        {
+          "cycle": "8.0",
+          "label": "Android 8.0",
+          "eol": "2021-01-01",
+          "status": "EOL",
+          "days_until_eol": -2009,
+          "latest": ""
+        },
+        {
+          "cycle": "7.1",
+          "label": "Android 7.1",
+          "eol": "2019-10-01",
+          "status": "EOL",
+          "days_until_eol": -2467,
+          "latest": ""
+        },
+        {
+          "cycle": "7.0",
+          "label": "Android 7.0",
+          "eol": "2019-10-01",
+          "status": "EOL",
+          "days_until_eol": -2467,
+          "latest": ""
+        },
+        {
+          "cycle": "6.0",
+          "label": "Android 6.0",
+          "eol": "2018-08-01",
+          "status": "EOL",
+          "days_until_eol": -2893,
+          "latest": ""
+        },
+        {
+          "cycle": "5.1",
+          "label": "Android 5.1",
+          "eol": "2018-03-01",
+          "status": "EOL",
+          "days_until_eol": -3046,
+          "latest": ""
+        },
+        {
+          "cycle": "5.0",
+          "label": "Android 5.0",
+          "eol": "2018-03-01",
+          "status": "EOL",
+          "days_until_eol": -3046,
+          "latest": ""
+        },
+        {
+          "cycle": "4.4w",
+          "label": "4.4W",
+          "eol": "2017-10-01",
+          "status": "EOL",
+          "days_until_eol": -3197,
+          "latest": ""
+        },
+        {
+          "cycle": "4.4",
+          "label": "Android 4.4",
+          "eol": "2017-10-01",
+          "status": "EOL",
+          "days_until_eol": -3197,
+          "latest": ""
+        },
+        {
+          "cycle": "4.3",
+          "label": "Android 4.3",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "4.2",
+          "label": "Android 4.2",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "4.1",
+          "label": "Android 4.1",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "4.0",
+          "label": "Android 4.0",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "3.2",
+          "label": "Android 3.2",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "3.1",
+          "label": "Android 3.1",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "3.0",
+          "label": "Android 3.0",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "2.3",
+          "label": "Android 2.3",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "2.2",
+          "label": "Android 2.2",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "2.1",
+          "label": "Android 2.1",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "2.0",
+          "label": "Android 2.0",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "1.6",
+          "label": "Android 1.6",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "1.5",
+          "label": "Android 1.5",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "1.1",
+          "label": "Android 1.1",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        },
+        {
+          "cycle": "1.0",
+          "label": "1.0",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": ""
+        }
+      ]
+    },
+    "ubuntu": {
+      "display": "Ubuntu",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "26.04",
+          "label": "Ubuntu 26.04",
+          "eol": "2031-04-30",
+          "status": "SUPPORTED",
+          "days_until_eol": 1762,
+          "latest": "26.04"
+        },
+        {
+          "cycle": "25.10",
+          "label": "Ubuntu 25.10",
+          "eol": "2026-07-01",
+          "status": "EOL",
+          "days_until_eol": -2,
+          "latest": "25.10"
+        },
+        {
+          "cycle": "25.04",
+          "label": "Ubuntu 25.04",
+          "eol": "2026-01-17",
+          "status": "EOL",
+          "days_until_eol": -167,
+          "latest": "25.04"
+        },
+        {
+          "cycle": "24.10",
+          "label": "Ubuntu 24.10",
+          "eol": "2025-07-10",
+          "status": "EOL",
+          "days_until_eol": -358,
+          "latest": "24.10"
+        },
+        {
+          "cycle": "24.04",
+          "label": "Ubuntu 24.04",
+          "eol": "2029-05-31",
+          "status": "SUPPORTED",
+          "days_until_eol": 1063,
+          "latest": "24.04.4"
+        },
+        {
+          "cycle": "23.10",
+          "label": "Ubuntu 23.10",
+          "eol": "2024-07-12",
+          "status": "EOL",
+          "days_until_eol": -721,
+          "latest": "23.10"
+        },
+        {
+          "cycle": "23.04",
+          "label": "Ubuntu 23.04",
+          "eol": "2024-01-20",
+          "status": "EOL",
+          "days_until_eol": -895,
+          "latest": "23.04"
+        },
+        {
+          "cycle": "22.10",
+          "label": "Ubuntu 22.10",
+          "eol": "2023-07-20",
+          "status": "EOL",
+          "days_until_eol": -1079,
+          "latest": "22.10"
+        },
+        {
+          "cycle": "22.04",
+          "label": "Ubuntu 22.04",
+          "eol": "2027-04-01",
+          "status": "SUPPORTED",
+          "days_until_eol": 272,
+          "latest": "22.04.5"
+        },
+        {
+          "cycle": "21.10",
+          "label": "Ubuntu 21.10",
+          "eol": "2022-07-14",
+          "status": "EOL",
+          "days_until_eol": -1450,
+          "latest": "21.10"
+        },
+        {
+          "cycle": "21.04",
+          "label": "Ubuntu 21.04",
+          "eol": "2022-01-20",
+          "status": "EOL",
+          "days_until_eol": -1625,
+          "latest": "21.04"
+        },
+        {
+          "cycle": "20.10",
+          "label": "Ubuntu 20.10",
+          "eol": "2021-07-22",
+          "status": "EOL",
+          "days_until_eol": -1807,
+          "latest": "20.10"
+        },
+        {
+          "cycle": "20.04",
+          "label": "Ubuntu 20.04",
+          "eol": "2025-05-31",
+          "status": "EOL",
+          "days_until_eol": -398,
+          "latest": "20.04.6"
+        },
+        {
+          "cycle": "19.10",
+          "label": "Ubuntu 19.10",
+          "eol": "2020-07-06",
+          "status": "EOL",
+          "days_until_eol": -2188,
+          "latest": "19.10"
+        },
+        {
+          "cycle": "19.04",
+          "label": "Ubuntu 19.04",
+          "eol": "2020-01-23",
+          "status": "EOL",
+          "days_until_eol": -2353,
+          "latest": "19.04"
+        },
+        {
+          "cycle": "18.10",
+          "label": "Ubuntu 18.10",
+          "eol": "2019-07-18",
+          "status": "EOL",
+          "days_until_eol": -2542,
+          "latest": "18.10"
+        },
+        {
+          "cycle": "18.04",
+          "label": "Ubuntu 18.04",
+          "eol": "2023-05-31",
+          "status": "EOL",
+          "days_until_eol": -1129,
+          "latest": "18.04.6"
+        },
+        {
+          "cycle": "17.10",
+          "label": "Ubuntu 17.10",
+          "eol": "2018-07-19",
+          "status": "EOL",
+          "days_until_eol": -2906,
+          "latest": "17.10"
+        },
+        {
+          "cycle": "17.04",
+          "label": "Ubuntu 17.04",
+          "eol": "2018-01-13",
+          "status": "EOL",
+          "days_until_eol": -3093,
+          "latest": "17.04"
+        },
+        {
+          "cycle": "16.10",
+          "label": "Ubuntu 16.10",
+          "eol": "2017-07-20",
+          "status": "EOL",
+          "days_until_eol": -3270,
+          "latest": "16.10"
+        },
+        {
+          "cycle": "16.04",
+          "label": "Ubuntu 16.04",
+          "eol": "2021-04-02",
+          "status": "EOL",
+          "days_until_eol": -1918,
+          "latest": "16.04.7"
+        },
+        {
+          "cycle": "15.10",
+          "label": "Ubuntu 15.10",
+          "eol": "2016-07-28",
+          "status": "EOL",
+          "days_until_eol": -3627,
+          "latest": "15.10"
+        },
+        {
+          "cycle": "15.04",
+          "label": "Ubuntu 15.04",
+          "eol": "2016-02-04",
+          "status": "EOL",
+          "days_until_eol": -3802,
+          "latest": "15.04"
+        },
+        {
+          "cycle": "14.10",
+          "label": "Ubuntu 14.10",
+          "eol": "2015-07-23",
+          "status": "EOL",
+          "days_until_eol": -3998,
+          "latest": "14.10"
+        },
+        {
+          "cycle": "14.04",
+          "label": "Ubuntu 14.04",
+          "eol": "2019-04-02",
+          "status": "EOL",
+          "days_until_eol": -2649,
+          "latest": "14.04.6"
+        },
+        {
+          "cycle": "13.10",
+          "label": "Ubuntu 13.10",
+          "eol": "2014-07-17",
+          "status": "EOL",
+          "days_until_eol": -4369,
+          "latest": "13.10"
+        },
+        {
+          "cycle": "13.04",
+          "label": "Ubuntu 13.04",
+          "eol": "2014-01-27",
+          "status": "EOL",
+          "days_until_eol": -4540,
+          "latest": "13.04"
+        },
+        {
+          "cycle": "12.10",
+          "label": "Ubuntu 12.10",
+          "eol": "2014-05-16",
+          "status": "EOL",
+          "days_until_eol": -4431,
+          "latest": "12.10"
+        },
+        {
+          "cycle": "12.04",
+          "label": "Ubuntu 12.04",
+          "eol": "2017-04-28",
+          "status": "EOL",
+          "days_until_eol": -3353,
+          "latest": "12.04.5"
+        },
+        {
+          "cycle": "11.10",
+          "label": "Ubuntu 11.10",
+          "eol": "2013-05-09",
+          "status": "EOL",
+          "days_until_eol": -4803,
+          "latest": "11.10"
+        },
+        {
+          "cycle": "11.04",
+          "label": "Ubuntu 11.04",
+          "eol": "2012-10-28",
+          "status": "EOL",
+          "days_until_eol": -4996,
+          "latest": "11.04"
+        },
+        {
+          "cycle": "10.10",
+          "label": "Ubuntu 10.10",
+          "eol": "2012-04-10",
+          "status": "EOL",
+          "days_until_eol": -5197,
+          "latest": "10.10"
+        },
+        {
+          "cycle": "10.04",
+          "label": "Ubuntu 10.04",
+          "eol": "2013-05-09",
+          "status": "EOL",
+          "days_until_eol": -4803,
+          "latest": "10.04.4"
+        },
+        {
+          "cycle": "9.10",
+          "label": "Ubuntu 9.10",
+          "eol": "2011-04-30",
+          "status": "EOL",
+          "days_until_eol": -5543,
+          "latest": "9.10"
+        },
+        {
+          "cycle": "9.04",
+          "label": "Ubuntu 9.04",
+          "eol": "2010-10-23",
+          "status": "EOL",
+          "days_until_eol": -5732,
+          "latest": "9.04"
+        },
+        {
+          "cycle": "8.10",
+          "label": "Ubuntu 8.10",
+          "eol": "2010-04-30",
+          "status": "EOL",
+          "days_until_eol": -5908,
+          "latest": "8.10"
+        },
+        {
+          "cycle": "8.04",
+          "label": "Ubuntu 8.04",
+          "eol": "2013-05-09",
+          "status": "EOL",
+          "days_until_eol": -4803,
+          "latest": "8.04.4"
+        },
+        {
+          "cycle": "7.10",
+          "label": "Ubuntu 7.10",
+          "eol": "2009-04-18",
+          "status": "EOL",
+          "days_until_eol": -6285,
+          "latest": "7.10"
+        },
+        {
+          "cycle": "7.04",
+          "label": "Ubuntu 7.04",
+          "eol": "2008-10-19",
+          "status": "EOL",
+          "days_until_eol": -6466,
+          "latest": "7.04"
+        },
+        {
+          "cycle": "6.10",
+          "label": "Ubuntu 6.10",
+          "eol": "2008-04-26",
+          "status": "EOL",
+          "days_until_eol": -6642,
+          "latest": "6.10"
+        },
+        {
+          "cycle": "6.06",
+          "label": "Ubuntu 6.06",
+          "eol": "2011-06-01",
+          "status": "EOL",
+          "days_until_eol": -5511,
+          "latest": "6.06.2"
+        },
+        {
+          "cycle": "5.10",
+          "label": "Ubuntu 5.10",
+          "eol": "2007-04-13",
+          "status": "EOL",
+          "days_until_eol": -7021,
+          "latest": "5.10"
+        },
+        {
+          "cycle": "5.04",
+          "label": "Ubuntu 5.04",
+          "eol": "2006-10-31",
+          "status": "EOL",
+          "days_until_eol": -7185,
+          "latest": "5.04"
+        },
+        {
+          "cycle": "4.10",
+          "label": "Ubuntu 4.10",
+          "eol": "2006-04-30",
+          "status": "EOL",
+          "days_until_eol": -7369,
+          "latest": "4.10"
+        }
+      ]
+    },
+    "debian": {
+      "display": "Debian",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "13",
+          "label": "Debian 13",
+          "eol": "2028-08-09",
+          "status": "SUPPORTED",
+          "days_until_eol": 768,
+          "latest": "13.5"
+        },
+        {
+          "cycle": "12",
+          "label": "Debian 12",
+          "eol": "2026-07-11",
+          "status": "EOL_SOON",
+          "days_until_eol": 8,
+          "latest": "12.14"
+        },
+        {
+          "cycle": "11",
+          "label": "Debian 11",
+          "eol": "2024-08-14",
+          "status": "EOL",
+          "days_until_eol": -688,
+          "latest": "11.11"
+        },
+        {
+          "cycle": "10",
+          "label": "Debian 10",
+          "eol": "2022-09-10",
+          "status": "EOL",
+          "days_until_eol": -1392,
+          "latest": "10.13"
+        },
+        {
+          "cycle": "9",
+          "label": "Debian 9",
+          "eol": "2020-07-18",
+          "status": "EOL",
+          "days_until_eol": -2176,
+          "latest": "9.13"
+        },
+        {
+          "cycle": "8",
+          "label": "Debian 8",
+          "eol": "2018-06-17",
+          "status": "EOL",
+          "days_until_eol": -2938,
+          "latest": "8.11"
+        },
+        {
+          "cycle": "7",
+          "label": "Debian 7",
+          "eol": "2016-04-25",
+          "status": "EOL",
+          "days_until_eol": -3721,
+          "latest": "7.11"
+        },
+        {
+          "cycle": "6",
+          "label": "Debian 6",
+          "eol": "2014-05-31",
+          "status": "EOL",
+          "days_until_eol": -4416,
+          "latest": "6.0.10"
+        },
+        {
+          "cycle": "5",
+          "label": "Debian 5",
+          "eol": "2012-02-06",
+          "status": "EOL",
+          "days_until_eol": -5261,
+          "latest": "5.0.10"
+        },
+        {
+          "cycle": "4",
+          "label": "Debian 4",
+          "eol": "2010-02-15",
+          "status": "EOL",
+          "days_until_eol": -5982,
+          "latest": "4.0r9"
+        },
+        {
+          "cycle": "3.1",
+          "label": "Debian 3.1",
+          "eol": "2008-03-31",
+          "status": "EOL",
+          "days_until_eol": -6668,
+          "latest": "3.1r8"
+        },
+        {
+          "cycle": "3.0",
+          "label": "Debian 3.0",
+          "eol": "2006-06-30",
+          "status": "EOL",
+          "days_until_eol": -7308,
+          "latest": "3.0r6"
+        },
+        {
+          "cycle": "2.2",
+          "label": "Debian 2.2",
+          "eol": "2003-06-30",
+          "status": "EOL",
+          "days_until_eol": -8404,
+          "latest": "2.2r7"
+        },
+        {
+          "cycle": "2.1",
+          "label": "Debian 2.1",
+          "eol": "2000-09-30",
+          "status": "EOL",
+          "days_until_eol": -9407,
+          "latest": "2.1r5"
+        },
+        {
+          "cycle": "2.0",
+          "label": "Debian 2.0",
+          "eol": "1999-02-15",
+          "status": "EOL",
+          "days_until_eol": -10000,
+          "latest": "2.0r5"
+        },
+        {
+          "cycle": "1.3",
+          "label": "Debian 1.3",
+          "eol": "1998-12-08",
+          "status": "EOL",
+          "days_until_eol": -10069,
+          "latest": "1.3.1 r.6"
+        },
+        {
+          "cycle": "1.2",
+          "label": "Debian 1.2",
+          "eol": "1997-10-23",
+          "status": "EOL",
+          "days_until_eol": -10480,
+          "latest": "1.2"
+        },
+        {
+          "cycle": "1.1",
+          "label": "Debian 1.1",
+          "eol": "1996-12-12",
+          "status": "EOL",
+          "days_until_eol": -10795,
+          "latest": "1.1"
+        }
+      ]
+    },
+    "rhel": {
+      "display": "Red Hat Enterprise Linux",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "10",
+          "label": "Red Hat Enterprise Linux 10",
+          "eol": "2035-05-31",
+          "status": "SUPPORTED",
+          "days_until_eol": 3254,
+          "latest": "10.2"
+        },
+        {
+          "cycle": "9",
+          "label": "Red Hat Enterprise Linux 9",
+          "eol": "2032-05-31",
+          "status": "SUPPORTED",
+          "days_until_eol": 2159,
+          "latest": "9.8"
+        },
+        {
+          "cycle": "8",
+          "label": "Red Hat Enterprise Linux 8",
+          "eol": "2029-05-31",
+          "status": "SUPPORTED",
+          "days_until_eol": 1063,
+          "latest": "8.10"
+        },
+        {
+          "cycle": "7",
+          "label": "Red Hat Enterprise Linux 7",
+          "eol": "2024-06-30",
+          "status": "EOL",
+          "days_until_eol": -733,
+          "latest": "7.9"
+        },
+        {
+          "cycle": "6",
+          "label": "Red Hat Enterprise Linux 6",
+          "eol": "2020-11-30",
+          "status": "EOL",
+          "days_until_eol": -2041,
+          "latest": "6.10"
+        },
+        {
+          "cycle": "5",
+          "label": "Red Hat Enterprise Linux 5",
+          "eol": "2017-03-31",
+          "status": "EOL",
+          "days_until_eol": -3381,
+          "latest": "5.11"
+        },
+        {
+          "cycle": "4",
+          "label": "Red Hat Enterprise Linux 4",
+          "eol": "2012-02-29",
+          "status": "EOL",
+          "days_until_eol": -5238,
+          "latest": "4.9"
+        }
+      ]
+    },
+    "chrome-os": {
+      "display": "ChromeOS",
+      "error": true,
+      "cycles": []
+    },
+    "pan-os": {
+      "display": "PAN-OS (Palo Alto)",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "12.1",
+          "label": "PAN-OS (Palo Alto) 12.1",
+          "eol": "2028-08-28",
+          "status": "SUPPORTED",
+          "days_until_eol": 787,
+          "latest": "12.1.7-h1"
+        },
+        {
+          "cycle": "11.2",
+          "label": "PAN-OS (Palo Alto) 11.2",
+          "eol": "2027-05-02",
+          "status": "SUPPORTED",
+          "days_until_eol": 303,
+          "latest": "11.2.12"
+        },
+        {
+          "cycle": "11.1",
+          "label": "PAN-OS (Palo Alto) 11.1",
+          "eol": "2027-05-03",
+          "status": "SUPPORTED",
+          "days_until_eol": 304,
+          "latest": "11.1.15"
+        },
+        {
+          "cycle": "11.0",
+          "label": "PAN-OS (Palo Alto) 11.0",
+          "eol": "2024-11-17",
+          "status": "EOL",
+          "days_until_eol": -593,
+          "latest": "11.0.6-h1"
+        },
+        {
+          "cycle": "10.2",
+          "label": "PAN-OS (Palo Alto) 10.2",
+          "eol": "2025-08-27",
+          "status": "EOL",
+          "days_until_eol": -310,
+          "latest": "10.2.18-h7"
+        },
+        {
+          "cycle": "10.1",
+          "label": "PAN-OS (Palo Alto) 10.1",
+          "eol": "2024-12-01",
+          "status": "EOL",
+          "days_until_eol": -579,
+          "latest": "10.1.14-h20"
+        },
+        {
+          "cycle": "10.0",
+          "label": "PAN-OS (Palo Alto) 10.0",
+          "eol": "2022-07-16",
+          "status": "EOL",
+          "days_until_eol": -1448,
+          "latest": "10.0.12-h6"
+        },
+        {
+          "cycle": "9.1",
+          "label": "PAN-OS (Palo Alto) 9.1",
+          "eol": "2024-06-30",
+          "status": "EOL",
+          "days_until_eol": -733,
+          "latest": "9.1.19"
+        },
+        {
+          "cycle": "9.0-xfr",
+          "label": "9.0-XFR (VM-Series only)",
+          "eol": "2020-09-19",
+          "status": "EOL",
+          "days_until_eol": -2113,
+          "latest": "9.0-XFR (VM-Series only)"
+        },
+        {
+          "cycle": "9.0",
+          "label": "PAN-OS (Palo Alto) 9.0",
+          "eol": "2022-03-01",
+          "status": "EOL",
+          "days_until_eol": -1585,
+          "latest": "9.0.17-h5"
+        },
+        {
+          "cycle": "8.1",
+          "label": "PAN-OS (Palo Alto) 8.1",
+          "eol": "2022-03-01",
+          "status": "EOL",
+          "days_until_eol": -1585,
+          "latest": "8.1.24"
+        },
+        {
+          "cycle": "8.0",
+          "label": "PAN-OS (Palo Alto) 8.0",
+          "eol": "2019-10-31",
+          "status": "EOL",
+          "days_until_eol": -2437,
+          "latest": "8.0.20"
+        },
+        {
+          "cycle": "7.1",
+          "label": "PAN-OS (Palo Alto) 7.1",
+          "eol": "2020-06-30",
+          "status": "EOL",
+          "days_until_eol": -2194,
+          "latest": "7.1.26"
+        },
+        {
+          "cycle": "7.0",
+          "label": "PAN-OS (Palo Alto) 7.0",
+          "eol": "2017-12-04",
+          "status": "EOL",
+          "days_until_eol": -3133,
+          "latest": "7.0.19"
+        },
+        {
+          "cycle": "6.1",
+          "label": "PAN-OS (Palo Alto) 6.1",
+          "eol": "2018-10-25",
+          "status": "EOL",
+          "days_until_eol": -2808,
+          "latest": "6.1.22"
+        },
+        {
+          "cycle": "6.0",
+          "label": "PAN-OS (Palo Alto) 6.0",
+          "eol": "2017-03-19",
+          "status": "EOL",
+          "days_until_eol": -3393,
+          "latest": "6.0.15"
+        },
+        {
+          "cycle": "5.1",
+          "label": "PAN-OS (Palo Alto) 5.1",
+          "eol": "2017-05-09",
+          "status": "EOL",
+          "days_until_eol": -3342,
+          "latest": ""
+        },
+        {
+          "cycle": "5.0",
+          "label": "PAN-OS (Palo Alto) 5.0",
+          "eol": "2016-11-13",
+          "status": "EOL",
+          "days_until_eol": -3519,
+          "latest": ""
+        },
+        {
+          "cycle": "4.1",
+          "label": "PAN-OS (Palo Alto) 4.1",
+          "eol": "2015-04-30",
+          "status": "EOL",
+          "days_until_eol": -4082,
+          "latest": ""
+        },
+        {
+          "cycle": "4.0",
+          "label": "PAN-OS (Palo Alto) 4.0",
+          "eol": "2014-12-31",
+          "status": "EOL",
+          "days_until_eol": -4202,
+          "latest": ""
+        },
+        {
+          "cycle": "3.1",
+          "label": "PAN-OS (Palo Alto) 3.1",
+          "eol": "2013-06-30",
+          "status": "EOL",
+          "days_until_eol": -4751,
+          "latest": ""
+        },
+        {
+          "cycle": "3.0",
+          "label": "PAN-OS (Palo Alto) 3.0",
+          "eol": "2010-12-17",
+          "status": "EOL",
+          "days_until_eol": -5677,
+          "latest": ""
+        },
+        {
+          "cycle": "2.1",
+          "label": "PAN-OS (Palo Alto) 2.1",
+          "eol": "2012-01-05",
+          "status": "EOL",
+          "days_until_eol": -5293,
+          "latest": ""
+        },
+        {
+          "cycle": "2.0",
+          "label": "PAN-OS (Palo Alto) 2.0",
+          "eol": "2009-05-20",
+          "status": "EOL",
+          "days_until_eol": -6253,
+          "latest": ""
+        },
+        {
+          "cycle": "1.3",
+          "label": "PAN-OS (Palo Alto) 1.3",
+          "eol": "2008-11-20",
+          "status": "EOL",
+          "days_until_eol": -6434,
+          "latest": ""
+        }
+      ]
+    },
+    "cisco-ios-xe": {
+      "display": "Cisco IOS XE",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "17.18",
+          "label": "Cisco IOS XE 17.18",
+          "eol": "2029-08-08",
+          "status": "SUPPORTED",
+          "days_until_eol": 1132,
+          "latest": ""
+        },
+        {
+          "cycle": "17.17",
+          "label": "Cisco IOS XE 17.17",
+          "eol": "2026-03-31",
+          "status": "EOL",
+          "days_until_eol": -94,
+          "latest": ""
+        },
+        {
+          "cycle": "17.16",
+          "label": "Cisco IOS XE 17.16",
+          "eol": "2025-12-11",
+          "status": "EOL",
+          "days_until_eol": -204,
+          "latest": ""
+        },
+        {
+          "cycle": "17.15",
+          "label": "Cisco IOS XE 17.15",
+          "eol": "2028-08-09",
+          "status": "SUPPORTED",
+          "days_until_eol": 768,
+          "latest": ""
+        },
+        {
+          "cycle": "17.14",
+          "label": "Cisco IOS XE 17.14",
+          "eol": "2025-04-13",
+          "status": "EOL",
+          "days_until_eol": -446,
+          "latest": ""
+        },
+        {
+          "cycle": "17.13",
+          "label": "Cisco IOS XE 17.13",
+          "eol": "2024-11-30",
+          "status": "EOL",
+          "days_until_eol": -580,
+          "latest": ""
+        },
+        {
+          "cycle": "17.12",
+          "label": "Cisco IOS XE 17.12",
+          "eol": "2027-07-28",
+          "status": "SUPPORTED",
+          "days_until_eol": 390,
+          "latest": ""
+        },
+        {
+          "cycle": "17.11",
+          "label": "Cisco IOS XE 17.11",
+          "eol": "2024-03-28",
+          "status": "EOL",
+          "days_until_eol": -827,
+          "latest": ""
+        },
+        {
+          "cycle": "17.10",
+          "label": "Cisco IOS XE 17.10",
+          "eol": "2023-11-30",
+          "status": "EOL",
+          "days_until_eol": -946,
+          "latest": ""
+        },
+        {
+          "cycle": "17.9",
+          "label": "Cisco IOS XE 17.9",
+          "eol": "2026-07-29",
+          "status": "EOL_SOON",
+          "days_until_eol": 26,
+          "latest": ""
+        },
+        {
+          "cycle": "17.8",
+          "label": "Cisco IOS XE 17.8",
+          "eol": "2023-04-11",
+          "status": "EOL",
+          "days_until_eol": -1179,
+          "latest": ""
+        },
+        {
+          "cycle": "17.7",
+          "label": "Cisco IOS XE 17.7",
+          "eol": "2022-11-30",
+          "status": "EOL",
+          "days_until_eol": -1311,
+          "latest": ""
+        },
+        {
+          "cycle": "17.6",
+          "label": "Cisco IOS XE 17.6",
+          "eol": "2024-07-30",
+          "status": "EOL",
+          "days_until_eol": -703,
+          "latest": ""
+        },
+        {
+          "cycle": "17.5",
+          "label": "Cisco IOS XE 17.5",
+          "eol": "2022-03-31",
+          "status": "EOL",
+          "days_until_eol": -1555,
+          "latest": ""
+        },
+        {
+          "cycle": "17.4",
+          "label": "Cisco IOS XE 17.4",
+          "eol": "2021-11-30",
+          "status": "EOL",
+          "days_until_eol": -1676,
+          "latest": ""
+        },
+        {
+          "cycle": "17.3",
+          "label": "Cisco IOS XE 17.3",
+          "eol": "2024-07-31",
+          "status": "EOL",
+          "days_until_eol": -702,
+          "latest": ""
+        },
+        {
+          "cycle": "17.2",
+          "label": "Cisco IOS XE 17.2",
+          "eol": "2021-03-30",
+          "status": "EOL",
+          "days_until_eol": -1921,
+          "latest": ""
+        },
+        {
+          "cycle": "17.1",
+          "label": "Cisco IOS XE 17.1",
+          "eol": "2020-11-21",
+          "status": "EOL",
+          "days_until_eol": -2050,
+          "latest": ""
+        },
+        {
+          "cycle": "16.12",
+          "label": "Cisco IOS XE 16.12",
+          "eol": "2023-07-31",
+          "status": "EOL",
+          "days_until_eol": -1068,
+          "latest": ""
+        }
+      ]
+    },
+    "python": {
+      "display": "Python",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "3.14",
+          "label": "Python 3.14",
+          "eol": "2030-10-31",
+          "status": "SUPPORTED",
+          "days_until_eol": 1581,
+          "latest": "3.14.6"
+        },
+        {
+          "cycle": "3.13",
+          "label": "Python 3.13",
+          "eol": "2029-10-31",
+          "status": "SUPPORTED",
+          "days_until_eol": 1216,
+          "latest": "3.13.14"
+        },
+        {
+          "cycle": "3.12",
+          "label": "Python 3.12",
+          "eol": "2028-10-31",
+          "status": "SUPPORTED",
+          "days_until_eol": 851,
+          "latest": "3.12.13"
+        },
+        {
+          "cycle": "3.11",
+          "label": "Python 3.11",
+          "eol": "2027-10-31",
+          "status": "SUPPORTED",
+          "days_until_eol": 485,
+          "latest": "3.11.15"
+        },
+        {
+          "cycle": "3.10",
+          "label": "Python 3.10",
+          "eol": "2026-10-31",
+          "status": "SUPPORTED",
+          "days_until_eol": 120,
+          "latest": "3.10.20"
+        },
+        {
+          "cycle": "3.9",
+          "label": "Python 3.9",
+          "eol": "2025-10-31",
+          "status": "EOL",
+          "days_until_eol": -245,
+          "latest": "3.9.25"
+        },
+        {
+          "cycle": "3.8",
+          "label": "Python 3.8",
+          "eol": "2024-10-07",
+          "status": "EOL",
+          "days_until_eol": -634,
+          "latest": "3.8.20"
+        },
+        {
+          "cycle": "3.7",
+          "label": "Python 3.7",
+          "eol": "2023-06-27",
+          "status": "EOL",
+          "days_until_eol": -1102,
+          "latest": "3.7.17"
+        },
+        {
+          "cycle": "3.6",
+          "label": "Python 3.6",
+          "eol": "2021-12-23",
+          "status": "EOL",
+          "days_until_eol": -1653,
+          "latest": "3.6.15"
+        },
+        {
+          "cycle": "3.5",
+          "label": "Python 3.5",
+          "eol": "2020-09-30",
+          "status": "EOL",
+          "days_until_eol": -2102,
+          "latest": "3.5.10"
+        },
+        {
+          "cycle": "3.4",
+          "label": "Python 3.4",
+          "eol": "2019-03-18",
+          "status": "EOL",
+          "days_until_eol": -2664,
+          "latest": "3.4.10"
+        },
+        {
+          "cycle": "3.3",
+          "label": "Python 3.3",
+          "eol": "2017-09-29",
+          "status": "EOL",
+          "days_until_eol": -3199,
+          "latest": "3.3.7"
+        },
+        {
+          "cycle": "3.2",
+          "label": "Python 3.2",
+          "eol": "2016-02-20",
+          "status": "EOL",
+          "days_until_eol": -3786,
+          "latest": "3.2.6"
+        },
+        {
+          "cycle": "2.7",
+          "label": "Python 2.7",
+          "eol": "2020-01-01",
+          "status": "EOL",
+          "days_until_eol": -2375,
+          "latest": "2.7.18"
+        },
+        {
+          "cycle": "3.1",
+          "label": "Python 3.1",
+          "eol": "2012-04-09",
+          "status": "EOL",
+          "days_until_eol": -5198,
+          "latest": "3.1.5"
+        },
+        {
+          "cycle": "3.0",
+          "label": "Python 3.0",
+          "eol": "2009-06-27",
+          "status": "EOL",
+          "days_until_eol": -6215,
+          "latest": "3.0.1"
+        },
+        {
+          "cycle": "2.6",
+          "label": "Python 2.6",
+          "eol": "2013-10-29",
+          "status": "EOL",
+          "days_until_eol": -4630,
+          "latest": "2.6.9"
+        }
+      ]
+    },
+    "php": {
+      "display": "PHP",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "8.5",
+          "label": "PHP 8.5",
+          "eol": "2029-12-31",
+          "status": "SUPPORTED",
+          "days_until_eol": 1277,
+          "latest": "8.5.7"
+        },
+        {
+          "cycle": "8.4",
+          "label": "PHP 8.4",
+          "eol": "2028-12-31",
+          "status": "SUPPORTED",
+          "days_until_eol": 912,
+          "latest": "8.4.22"
+        },
+        {
+          "cycle": "8.3",
+          "label": "PHP 8.3",
+          "eol": "2027-12-31",
+          "status": "SUPPORTED",
+          "days_until_eol": 546,
+          "latest": "8.3.31"
+        },
+        {
+          "cycle": "8.2",
+          "label": "PHP 8.2",
+          "eol": "2026-12-31",
+          "status": "SUPPORTED",
+          "days_until_eol": 181,
+          "latest": "8.2.31"
+        },
+        {
+          "cycle": "8.1",
+          "label": "PHP 8.1",
+          "eol": "2025-12-31",
+          "status": "EOL",
+          "days_until_eol": -184,
+          "latest": "8.1.34"
+        },
+        {
+          "cycle": "8.0",
+          "label": "PHP 8.0",
+          "eol": "2023-11-26",
+          "status": "EOL",
+          "days_until_eol": -950,
+          "latest": "8.0.30"
+        },
+        {
+          "cycle": "7.4",
+          "label": "PHP 7.4",
+          "eol": "2022-11-28",
+          "status": "EOL",
+          "days_until_eol": -1313,
+          "latest": "7.4.33"
+        },
+        {
+          "cycle": "7.3",
+          "label": "PHP 7.3",
+          "eol": "2021-12-06",
+          "status": "EOL",
+          "days_until_eol": -1670,
+          "latest": "7.3.33"
+        },
+        {
+          "cycle": "7.2",
+          "label": "PHP 7.2",
+          "eol": "2020-11-30",
+          "status": "EOL",
+          "days_until_eol": -2041,
+          "latest": "7.2.34"
+        },
+        {
+          "cycle": "7.1",
+          "label": "PHP 7.1",
+          "eol": "2019-12-01",
+          "status": "EOL",
+          "days_until_eol": -2406,
+          "latest": "7.1.33"
+        },
+        {
+          "cycle": "7.0",
+          "label": "PHP 7.0",
+          "eol": "2019-01-10",
+          "status": "EOL",
+          "days_until_eol": -2731,
+          "latest": "7.0.33"
+        },
+        {
+          "cycle": "5.6",
+          "label": "PHP 5.6",
+          "eol": "2018-12-31",
+          "status": "EOL",
+          "days_until_eol": -2741,
+          "latest": "5.6.40"
+        },
+        {
+          "cycle": "5.5",
+          "label": "PHP 5.5",
+          "eol": "2016-07-21",
+          "status": "EOL",
+          "days_until_eol": -3634,
+          "latest": "5.5.38"
+        },
+        {
+          "cycle": "5.4",
+          "label": "PHP 5.4",
+          "eol": "2015-09-14",
+          "status": "EOL",
+          "days_until_eol": -3945,
+          "latest": "5.4.45"
+        },
+        {
+          "cycle": "5.3",
+          "label": "PHP 5.3",
+          "eol": "2014-08-14",
+          "status": "EOL",
+          "days_until_eol": -4341,
+          "latest": "5.3.29"
+        },
+        {
+          "cycle": "5.2",
+          "label": "PHP 5.2",
+          "eol": "2011-01-06",
+          "status": "EOL",
+          "days_until_eol": -5657,
+          "latest": "5.2.17"
+        },
+        {
+          "cycle": "5.1",
+          "label": "PHP 5.1",
+          "eol": "2006-08-24",
+          "status": "EOL",
+          "days_until_eol": -7253,
+          "latest": "5.1.6"
+        },
+        {
+          "cycle": "5.0",
+          "label": "PHP 5.0",
+          "eol": "2005-09-05",
+          "status": "EOL",
+          "days_until_eol": -7606,
+          "latest": "5.0.5"
+        }
+      ]
+    },
+    "nodejs": {
+      "display": "Node.js",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "26",
+          "label": "Node.js 26",
+          "eol": "2029-04-30",
+          "status": "SUPPORTED",
+          "days_until_eol": 1032,
+          "latest": "26.4.0"
+        },
+        {
+          "cycle": "25",
+          "label": "Node.js 25",
+          "eol": "2026-06-01",
+          "status": "EOL",
+          "days_until_eol": -32,
+          "latest": "25.9.0"
+        },
+        {
+          "cycle": "24",
+          "label": "Node.js 24",
+          "eol": "2028-04-30",
+          "status": "SUPPORTED",
+          "days_until_eol": 667,
+          "latest": "24.18.0"
+        },
+        {
+          "cycle": "23",
+          "label": "Node.js 23",
+          "eol": "2025-06-01",
+          "status": "EOL",
+          "days_until_eol": -397,
+          "latest": "23.11.1"
+        },
+        {
+          "cycle": "22",
+          "label": "Node.js 22",
+          "eol": "2027-04-30",
+          "status": "SUPPORTED",
+          "days_until_eol": 301,
+          "latest": "22.23.1"
+        },
+        {
+          "cycle": "21",
+          "label": "Node.js 21",
+          "eol": "2024-06-01",
+          "status": "EOL",
+          "days_until_eol": -762,
+          "latest": "21.7.3"
+        },
+        {
+          "cycle": "20",
+          "label": "Node.js 20",
+          "eol": "2026-04-30",
+          "status": "EOL",
+          "days_until_eol": -64,
+          "latest": "20.20.2"
+        },
+        {
+          "cycle": "19",
+          "label": "Node.js 19",
+          "eol": "2023-06-01",
+          "status": "EOL",
+          "days_until_eol": -1128,
+          "latest": "19.9.0"
+        },
+        {
+          "cycle": "18",
+          "label": "Node.js 18",
+          "eol": "2025-04-30",
+          "status": "EOL",
+          "days_until_eol": -429,
+          "latest": "18.20.8"
+        },
+        {
+          "cycle": "17",
+          "label": "Node.js 17",
+          "eol": "2022-06-01",
+          "status": "EOL",
+          "days_until_eol": -1493,
+          "latest": "17.9.1"
+        },
+        {
+          "cycle": "16",
+          "label": "Node.js 16",
+          "eol": "2023-09-11",
+          "status": "EOL",
+          "days_until_eol": -1026,
+          "latest": "16.20.2"
+        },
+        {
+          "cycle": "15",
+          "label": "Node.js 15",
+          "eol": "2021-06-01",
+          "status": "EOL",
+          "days_until_eol": -1858,
+          "latest": "15.14.0"
+        },
+        {
+          "cycle": "14",
+          "label": "Node.js 14",
+          "eol": "2023-04-30",
+          "status": "EOL",
+          "days_until_eol": -1160,
+          "latest": "14.21.3"
+        },
+        {
+          "cycle": "13",
+          "label": "Node.js 13",
+          "eol": "2020-06-01",
+          "status": "EOL",
+          "days_until_eol": -2223,
+          "latest": "13.14.0"
+        },
+        {
+          "cycle": "12",
+          "label": "Node.js 12",
+          "eol": "2022-04-30",
+          "status": "EOL",
+          "days_until_eol": -1525,
+          "latest": "12.22.12"
+        },
+        {
+          "cycle": "11",
+          "label": "Node.js 11",
+          "eol": "2019-06-30",
+          "status": "EOL",
+          "days_until_eol": -2560,
+          "latest": "11.15.0"
+        },
+        {
+          "cycle": "10",
+          "label": "Node.js 10",
+          "eol": "2021-04-30",
+          "status": "EOL",
+          "days_until_eol": -1890,
+          "latest": "10.24.1"
+        },
+        {
+          "cycle": "9",
+          "label": "Node.js 9",
+          "eol": "2018-06-30",
+          "status": "EOL",
+          "days_until_eol": -2925,
+          "latest": "9.11.2"
+        },
+        {
+          "cycle": "8",
+          "label": "Node.js 8",
+          "eol": "2019-12-31",
+          "status": "EOL",
+          "days_until_eol": -2376,
+          "latest": "8.17.0"
+        },
+        {
+          "cycle": "7",
+          "label": "Node.js 7",
+          "eol": "2017-06-30",
+          "status": "EOL",
+          "days_until_eol": -3290,
+          "latest": "7.10.1"
+        },
+        {
+          "cycle": "6",
+          "label": "Node.js 6",
+          "eol": "2019-04-30",
+          "status": "EOL",
+          "days_until_eol": -2621,
+          "latest": "6.17.1"
+        },
+        {
+          "cycle": "5",
+          "label": "Node.js 5",
+          "eol": "2016-06-30",
+          "status": "EOL",
+          "days_until_eol": -3655,
+          "latest": "5.12.0"
+        },
+        {
+          "cycle": "4",
+          "label": "Node.js 4",
+          "eol": "2018-04-30",
+          "status": "EOL",
+          "days_until_eol": -2986,
+          "latest": "4.9.1"
+        },
+        {
+          "cycle": "3",
+          "label": "Node.js 3",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": "3.3.1"
+        },
+        {
+          "cycle": "2",
+          "label": "Node.js 2",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": "2.5.0"
+        },
+        {
+          "cycle": "1",
+          "label": "Node.js 1",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": "1.8.4"
+        }
+      ]
+    },
+    "postgresql": {
+      "display": "PostgreSQL",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "18",
+          "label": "PostgreSQL 18",
+          "eol": "2030-11-14",
+          "status": "SUPPORTED",
+          "days_until_eol": 1595,
+          "latest": "18.4"
+        },
+        {
+          "cycle": "17",
+          "label": "PostgreSQL 17",
+          "eol": "2029-11-08",
+          "status": "SUPPORTED",
+          "days_until_eol": 1224,
+          "latest": "17.10"
+        },
+        {
+          "cycle": "16",
+          "label": "PostgreSQL 16",
+          "eol": "2028-11-09",
+          "status": "SUPPORTED",
+          "days_until_eol": 860,
+          "latest": "16.14"
+        },
+        {
+          "cycle": "15",
+          "label": "PostgreSQL 15",
+          "eol": "2027-11-11",
+          "status": "SUPPORTED",
+          "days_until_eol": 496,
+          "latest": "15.18"
+        },
+        {
+          "cycle": "14",
+          "label": "PostgreSQL 14",
+          "eol": "2026-11-12",
+          "status": "SUPPORTED",
+          "days_until_eol": 132,
+          "latest": "14.23"
+        },
+        {
+          "cycle": "13",
+          "label": "PostgreSQL 13",
+          "eol": "2025-11-13",
+          "status": "EOL",
+          "days_until_eol": -232,
+          "latest": "13.23"
+        },
+        {
+          "cycle": "12",
+          "label": "PostgreSQL 12",
+          "eol": "2024-11-21",
+          "status": "EOL",
+          "days_until_eol": -589,
+          "latest": "12.22"
+        },
+        {
+          "cycle": "11",
+          "label": "PostgreSQL 11",
+          "eol": "2023-11-09",
+          "status": "EOL",
+          "days_until_eol": -967,
+          "latest": "11.22"
+        },
+        {
+          "cycle": "10",
+          "label": "PostgreSQL 10",
+          "eol": "2022-11-10",
+          "status": "EOL",
+          "days_until_eol": -1331,
+          "latest": "10.23"
+        },
+        {
+          "cycle": "9.6",
+          "label": "PostgreSQL 9.6",
+          "eol": "2021-11-11",
+          "status": "EOL",
+          "days_until_eol": -1695,
+          "latest": "9.6.24"
+        },
+        {
+          "cycle": "9.5",
+          "label": "PostgreSQL 9.5",
+          "eol": "2021-02-11",
+          "status": "EOL",
+          "days_until_eol": -1968,
+          "latest": "9.5.25"
+        },
+        {
+          "cycle": "9.4",
+          "label": "PostgreSQL 9.4",
+          "eol": "2020-02-13",
+          "status": "EOL",
+          "days_until_eol": -2332,
+          "latest": "9.4.26"
+        },
+        {
+          "cycle": "9.3",
+          "label": "PostgreSQL 9.3",
+          "eol": "2018-11-08",
+          "status": "EOL",
+          "days_until_eol": -2794,
+          "latest": "9.3.25"
+        },
+        {
+          "cycle": "9.2",
+          "label": "PostgreSQL 9.2",
+          "eol": "2017-11-09",
+          "status": "EOL",
+          "days_until_eol": -3158,
+          "latest": "9.2.24"
+        },
+        {
+          "cycle": "9.1",
+          "label": "PostgreSQL 9.1",
+          "eol": "2016-10-27",
+          "status": "EOL",
+          "days_until_eol": -3536,
+          "latest": "9.1.24"
+        },
+        {
+          "cycle": "9.0",
+          "label": "PostgreSQL 9.0",
+          "eol": "2015-10-08",
+          "status": "EOL",
+          "days_until_eol": -3921,
+          "latest": "9.0.23"
+        },
+        {
+          "cycle": "8.4",
+          "label": "PostgreSQL 8.4",
+          "eol": "2014-07-24",
+          "status": "EOL",
+          "days_until_eol": -4362,
+          "latest": "8.4.22"
+        },
+        {
+          "cycle": "8.3",
+          "label": "PostgreSQL 8.3",
+          "eol": "2013-02-07",
+          "status": "EOL",
+          "days_until_eol": -4894,
+          "latest": "8.3.23"
+        },
+        {
+          "cycle": "8.2",
+          "label": "PostgreSQL 8.2",
+          "eol": "2011-12-05",
+          "status": "EOL",
+          "days_until_eol": -5324,
+          "latest": "8.2.23"
+        },
+        {
+          "cycle": "8.1",
+          "label": "PostgreSQL 8.1",
+          "eol": "2010-11-08",
+          "status": "EOL",
+          "days_until_eol": -5716,
+          "latest": "8.1.23"
+        },
+        {
+          "cycle": "8.0",
+          "label": "PostgreSQL 8.0",
+          "eol": "2010-10-01",
+          "status": "EOL",
+          "days_until_eol": -5754,
+          "latest": "8.0.26"
+        },
+        {
+          "cycle": "7.4",
+          "label": "PostgreSQL 7.4",
+          "eol": "2010-10-01",
+          "status": "EOL",
+          "days_until_eol": -5754,
+          "latest": "7.4.30"
+        },
+        {
+          "cycle": "7.3",
+          "label": "PostgreSQL 7.3",
+          "eol": "2007-11-27",
+          "status": "EOL",
+          "days_until_eol": -6793,
+          "latest": "7.3.21"
+        },
+        {
+          "cycle": "7.2",
+          "label": "PostgreSQL 7.2",
+          "eol": "2007-02-04",
+          "status": "EOL",
+          "days_until_eol": -7089,
+          "latest": "7.2.8"
+        },
+        {
+          "cycle": "7.1",
+          "label": "PostgreSQL 7.1",
+          "eol": "2006-04-13",
+          "status": "EOL",
+          "days_until_eol": -7386,
+          "latest": "7.1.3"
+        },
+        {
+          "cycle": "7.0",
+          "label": "PostgreSQL 7.0",
+          "eol": "2005-05-08",
+          "status": "EOL",
+          "days_until_eol": -7726,
+          "latest": "7.0.3"
+        },
+        {
+          "cycle": "6.5",
+          "label": "PostgreSQL 6.5",
+          "eol": "2004-06-09",
+          "status": "EOL",
+          "days_until_eol": -8059,
+          "latest": "6.5.3"
+        },
+        {
+          "cycle": "6.4",
+          "label": "PostgreSQL 6.4",
+          "eol": "2003-10-30",
+          "status": "EOL",
+          "days_until_eol": -8282,
+          "latest": "6.4.2"
+        },
+        {
+          "cycle": "6.3",
+          "label": "PostgreSQL 6.3",
+          "eol": "2003-03-01",
+          "status": "EOL",
+          "days_until_eol": -8525,
+          "latest": "6.3.2"
+        }
+      ]
+    },
+    "mysql": {
+      "display": "MySQL",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "9.7",
+          "label": "MySQL 9.7",
+          "eol": "2034-04-21",
+          "status": "SUPPORTED",
+          "days_until_eol": 2849,
+          "latest": "9.7.1"
+        },
+        {
+          "cycle": "9.6",
+          "label": "MySQL 9.6",
+          "eol": "2026-04-21",
+          "status": "EOL",
+          "days_until_eol": -73,
+          "latest": "9.6.1"
+        },
+        {
+          "cycle": "9.5",
+          "label": "MySQL 9.5",
+          "eol": "2026-01-20",
+          "status": "EOL",
+          "days_until_eol": -164,
+          "latest": "9.5.2"
+        },
+        {
+          "cycle": "9.4",
+          "label": "MySQL 9.4",
+          "eol": "2025-10-21",
+          "status": "EOL",
+          "days_until_eol": -255,
+          "latest": "9.4.2"
+        },
+        {
+          "cycle": "9.3",
+          "label": "MySQL 9.3",
+          "eol": "2025-07-22",
+          "status": "EOL",
+          "days_until_eol": -346,
+          "latest": "9.3.2"
+        },
+        {
+          "cycle": "9.2",
+          "label": "MySQL 9.2",
+          "eol": "2025-04-15",
+          "status": "EOL",
+          "days_until_eol": -444,
+          "latest": "9.2.2"
+        },
+        {
+          "cycle": "9.1",
+          "label": "MySQL 9.1",
+          "eol": "2025-01-21",
+          "status": "EOL",
+          "days_until_eol": -528,
+          "latest": "9.1.2"
+        },
+        {
+          "cycle": "9.0",
+          "label": "MySQL 9.0",
+          "eol": "2024-10-15",
+          "status": "EOL",
+          "days_until_eol": -626,
+          "latest": "9.0.1"
+        },
+        {
+          "cycle": "8.4",
+          "label": "MySQL 8.4",
+          "eol": "2032-04-30",
+          "status": "SUPPORTED",
+          "days_until_eol": 2128,
+          "latest": "8.4.10"
+        },
+        {
+          "cycle": "8.3",
+          "label": "MySQL 8.3",
+          "eol": "2024-04-10",
+          "status": "EOL",
+          "days_until_eol": -814,
+          "latest": "8.3.0"
+        },
+        {
+          "cycle": "8.2",
+          "label": "MySQL 8.2",
+          "eol": "2023-12-14",
+          "status": "EOL",
+          "days_until_eol": -932,
+          "latest": "8.2.0"
+        },
+        {
+          "cycle": "8.1",
+          "label": "MySQL 8.1",
+          "eol": "2023-10-25",
+          "status": "EOL",
+          "days_until_eol": -982,
+          "latest": "8.1.0"
+        },
+        {
+          "cycle": "8.0",
+          "label": "MySQL 8.0",
+          "eol": "2026-04-30",
+          "status": "EOL",
+          "days_until_eol": -64,
+          "latest": "8.0.46"
+        },
+        {
+          "cycle": "5.7",
+          "label": "MySQL 5.7",
+          "eol": "2023-10-31",
+          "status": "EOL",
+          "days_until_eol": -976,
+          "latest": "5.7.44"
+        },
+        {
+          "cycle": "5.6",
+          "label": "MySQL 5.6",
+          "eol": "2021-02-28",
+          "status": "EOL",
+          "days_until_eol": -1951,
+          "latest": "5.6.51"
+        },
+        {
+          "cycle": "5.5",
+          "label": "MySQL 5.5",
+          "eol": "2018-12-31",
+          "status": "EOL",
+          "days_until_eol": -2741,
+          "latest": "5.5.63"
+        }
+      ]
+    },
+    "exchange-server": {
+      "display": "Microsoft Exchange Server",
+      "error": true,
+      "cycles": []
+    },
+    "sql-server": {
+      "display": "Microsoft SQL Server",
+      "error": true,
+      "cycles": []
+    },
+    "office": {
+      "display": "Microsoft Office",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "2024",
+          "label": "Microsoft Office 2024",
+          "eol": "2029-10-09",
+          "status": "SUPPORTED",
+          "days_until_eol": 1194,
+          "latest": ""
+        },
+        {
+          "cycle": "2024-ltsc",
+          "label": "2024 LTSC",
+          "eol": "2029-10-09",
+          "status": "SUPPORTED",
+          "days_until_eol": 1194,
+          "latest": ""
+        },
+        {
+          "cycle": "2021",
+          "label": "Microsoft Office 2021",
+          "eol": "2026-10-13",
+          "status": "SUPPORTED",
+          "days_until_eol": 102,
+          "latest": ""
+        },
+        {
+          "cycle": "2019",
+          "label": "Microsoft Office 2019",
+          "eol": "2025-10-14",
+          "status": "EOL",
+          "days_until_eol": -262,
+          "latest": ""
+        },
+        {
+          "cycle": "2016",
+          "label": "Microsoft Office 2016",
+          "eol": "2025-10-14",
+          "status": "EOL",
+          "days_until_eol": -262,
+          "latest": ""
+        },
+        {
+          "cycle": "2013",
+          "label": "2013 SP1",
+          "eol": "2023-04-11",
+          "status": "EOL",
+          "days_until_eol": -1179,
+          "latest": ""
+        },
+        {
+          "cycle": "2011-for-mac",
+          "label": "2011 for Mac SP3",
+          "eol": "2017-10-10",
+          "status": "EOL",
+          "days_until_eol": -3188,
+          "latest": ""
+        },
+        {
+          "cycle": "2010",
+          "label": "2010 SP2",
+          "eol": "2020-10-13",
+          "status": "EOL",
+          "days_until_eol": -2089,
+          "latest": ""
+        },
+        {
+          "cycle": "2008-for-mac",
+          "label": "2008 for Mac SP2",
+          "eol": "2013-04-09",
+          "status": "EOL",
+          "days_until_eol": -4833,
+          "latest": ""
+        },
+        {
+          "cycle": "2007",
+          "label": "2007 SP3",
+          "eol": "2017-10-10",
+          "status": "EOL",
+          "days_until_eol": -3188,
+          "latest": ""
+        }
+      ]
+    },
+    "vmware-esxi": {
+      "display": "VMware ESXi",
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "9.1",
+          "label": "VMware ESXi 9.1",
+          "eol": "2028-08-12",
+          "status": "SUPPORTED",
+          "days_until_eol": 771,
+          "latest": "9.1.0.0"
+        },
+        {
+          "cycle": "9.0",
+          "label": "VMware ESXi 9.0",
+          "eol": "2027-09-17",
+          "status": "SUPPORTED",
+          "days_until_eol": 441,
+          "latest": "9.0.2.0"
+        },
+        {
+          "cycle": "8.0",
+          "label": "VMware ESXi 8.0",
+          "eol": "2027-10-11",
+          "status": "SUPPORTED",
+          "days_until_eol": 465,
+          "latest": "8.0 Update 3j"
+        },
+        {
+          "cycle": "7.0",
+          "label": "VMware ESXi 7.0",
+          "eol": "2025-10-02",
+          "status": "EOL",
+          "days_until_eol": -274,
+          "latest": "7.0 Update 3w"
+        },
+        {
+          "cycle": "6.7",
+          "label": "VMware ESXi 6.7",
+          "eol": "2022-10-15",
+          "status": "EOL",
+          "days_until_eol": -1357,
+          "latest": "6.7 Update 3w"
+        },
+        {
+          "cycle": "6.5",
+          "label": "VMware ESXi 6.5",
+          "eol": "2022-10-15",
+          "status": "EOL",
+          "days_until_eol": -1357,
+          "latest": "6.5 ESXi650-202403001"
+        },
+        {
+          "cycle": "6.0",
+          "label": "VMware ESXi 6.0",
+          "eol": "2020-03-12",
+          "status": "EOL",
+          "days_until_eol": -2304,
+          "latest": "6.0 EP 25"
+        },
+        {
+          "cycle": "5.5",
+          "label": "VMware ESXi 5.5",
+          "eol": "2018-09-19",
+          "status": "EOL",
+          "days_until_eol": -2844,
+          "latest": "5.5 Update 3k"
+        },
+        {
+          "cycle": "5.1",
+          "label": "VMware ESXi 5.1",
+          "eol": "2016-08-24",
+          "status": "EOL",
+          "days_until_eol": -3600,
+          "latest": "5.1 Update 3d"
+        },
+        {
+          "cycle": "5.0",
+          "label": "VMware ESXi 5.0",
+          "eol": "2016-08-24",
+          "status": "EOL",
+          "days_until_eol": -3600,
+          "latest": "5.0 Update 3g"
+        }
+      ]
+    }
+  }
+}

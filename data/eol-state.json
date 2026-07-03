@@ -1,0 +1,16 @@
+{
+  "android:13": "EOL",
+  "cisco-ios-xe:17.17": "EOL",
+  "cisco-ios-xe:17.9": "EOL_SOON",
+  "debian:12": "EOL_SOON",
+  "ios:12": "EOL",
+  "macos:10.15": "EOL",
+  "macos:11": "EOL",
+  "mysql:8.0": "EOL",
+  "mysql:9.5": "EOL",
+  "mysql:9.6": "EOL",
+  "nodejs:20": "EOL",
+  "nodejs:25": "EOL",
+  "ubuntu:25.04": "EOL",
+  "ubuntu:25.10": "EOL"
+}
