@@ -4,7 +4,7 @@ Daily automated tracking of **end-of-life and end-of-support dates** for 20 oper
 
 Software past its EOL date receives **no more security patches**. This tracker makes sure nothing in your stack quietly ages out of support.
 
-**🌐 Live dashboard:** [tayvensec.github.io/eol-tracker](https://tayvensec.github.io/eol-tracker/)
+**🌐 Live dashboard:** [https://tayvensec.github.io/eol-tracker/index.html](https://tayvensec.github.io/eol-tracker/index.html)
 
 Part of the Tayven Cyber Security open-source suite, alongside the [Patch Tuesday Tracker](https://github.com/TayvenSec/patch-tuesday-tracker) and [KEV Tracker](https://github.com/TayvenSec/kev-tracker). Built for the [Patch Management Series](https://tayvensec.com/patch-management/).
 
