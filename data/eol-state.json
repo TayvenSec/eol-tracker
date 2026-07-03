@@ -6,6 +6,8 @@
   "ios:12": "EOL",
   "macos:10.15": "EOL",
   "macos:11": "EOL",
+  "mssqlserver:13.0-sp3": "EOL_SOON",
+  "mssqlserver:13.0-sp3-acp": "EOL_SOON",
   "mysql:8.0": "EOL",
   "mysql:9.5": "EOL",
   "mysql:9.6": "EOL",

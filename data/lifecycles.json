@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-03T10:02:46.162675Z",
+  "checked_at": "2026-07-03T10:13:11.382699Z",
   "date": "2026-07-03",
   "products": {
     "windows": {
@@ -1706,11 +1706,6 @@
         }
       ]
     },
-    "chrome-os": {
-      "display": "ChromeOS",
-      "error": true,
-      "cycles": []
-    },
     "pan-os": {
       "display": "PAN-OS (Palo Alto)",
       "error": false,
@@ -2953,15 +2948,393 @@
         }
       ]
     },
-    "exchange-server": {
+    "msexchange": {
       "display": "Microsoft Exchange Server",
-      "error": true,
-      "cycles": []
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "subscription",
+          "label": "Subscription Edition SU7",
+          "eol": "none",
+          "status": "SUPPORTED",
+          "days_until_eol": null,
+          "latest": "15.2.2562.43"
+        },
+        {
+          "cycle": "2019",
+          "label": "2019 CU15 SU8",
+          "eol": "2025-10-14",
+          "status": "EOL",
+          "days_until_eol": -262,
+          "latest": "15.2.1748.46"
+        },
+        {
+          "cycle": "2016",
+          "label": "2016 CU23 SU22",
+          "eol": "2025-10-14",
+          "status": "EOL",
+          "days_until_eol": -262,
+          "latest": "15.1.2507.69"
+        },
+        {
+          "cycle": "2013",
+          "label": "2013 CU23 SU21",
+          "eol": "2023-04-11",
+          "status": "EOL",
+          "days_until_eol": -1179,
+          "latest": "15.0.1497.48"
+        },
+        {
+          "cycle": "2010",
+          "label": "2010 SP3 UR32",
+          "eol": "2020-10-13",
+          "status": "EOL",
+          "days_until_eol": -2089,
+          "latest": "14.3.513.0"
+        },
+        {
+          "cycle": "2007",
+          "label": "2007 SP3 UR23",
+          "eol": "2017-04-11",
+          "status": "EOL",
+          "days_until_eol": -3370,
+          "latest": "8.3.517.0"
+        },
+        {
+          "cycle": "2003",
+          "label": "2003 SP2",
+          "eol": "2014-04-08",
+          "status": "EOL",
+          "days_until_eol": -4469,
+          "latest": "6.5.7654.4"
+        },
+        {
+          "cycle": "2000",
+          "label": "2000 SP3",
+          "eol": "2011-01-11",
+          "status": "EOL",
+          "days_until_eol": -5652,
+          "latest": "6.0.6620.7"
+        },
+        {
+          "cycle": "5.5",
+          "label": "5.5 SP4",
+          "eol": "2006-01-10",
+          "status": "EOL",
+          "days_until_eol": -7479,
+          "latest": "5.5.2653"
+        },
+        {
+          "cycle": "5.0",
+          "label": "5.0 SP2",
+          "eol": "2006-01-10",
+          "status": "EOL",
+          "days_until_eol": -7479,
+          "latest": "5.0.1460"
+        },
+        {
+          "cycle": "4.0",
+          "label": "4.0 SP5",
+          "eol": "yes",
+          "status": "EOL",
+          "days_until_eol": null,
+          "latest": "4.0.996"
+        }
+      ]
     },
-    "sql-server": {
+    "mssqlserver": {
       "display": "Microsoft SQL Server",
-      "error": true,
-      "cycles": []
+      "error": false,
+      "cycles": [
+        {
+          "cycle": "17.0",
+          "label": "2025",
+          "eol": "2036-01-06",
+          "status": "SUPPORTED",
+          "days_until_eol": 3474,
+          "latest": "17.0.4055.5 CU6"
+        },
+        {
+          "cycle": "16.0",
+          "label": "2022 '__CODENAME__'",
+          "eol": "2033-01-11",
+          "status": "SUPPORTED",
+          "days_until_eol": 2384,
+          "latest": "16.0.4255.1 CU25"
+        },
+        {
+          "cycle": "13.0-sp3-acp",
+          "label": "2016 SP3 Azure Connect Pack",
+          "eol": "2026-07-14",
+          "status": "EOL_SOON",
+          "days_until_eol": 11,
+          "latest": "13.0.7085.1 Azure Connect pack+GDR"
+        },
+        {
+          "cycle": "13.0-sp3",
+          "label": "2016 SP3",
+          "eol": "2026-07-14",
+          "status": "EOL_SOON",
+          "days_until_eol": 11,
+          "latest": "13.0.6490.1 GDR"
+        },
+        {
+          "cycle": "15.0",
+          "label": "2019 '__CODENAME__'",
+          "eol": "2030-01-08",
+          "status": "SUPPORTED",
+          "days_until_eol": 1285,
+          "latest": "15.0.4470.1 CU32+GDR"
+        },
+        {
+          "cycle": "12.0-sp3",
+          "label": "2014 '__CODENAME__' SP3",
+          "eol": "2024-07-09",
+          "status": "EOL",
+          "days_until_eol": -724,
+          "latest": "12.0.6449.1 CU4+GDR"
+        },
+        {
+          "cycle": "13.0-sp2",
+          "label": "2016 SP2",
+          "eol": "2022-10-11",
+          "status": "EOL",
+          "days_until_eol": -1361,
+          "latest": "13.0.5893.48 CU17+GDR"
+        },
+        {
+          "cycle": "11.0-sp4",
+          "label": "2012 '__CODENAME__' SP4",
+          "eol": "2022-07-12",
+          "status": "EOL",
+          "days_until_eol": -1452,
+          "latest": "11.0.7512.11 GDR"
+        },
+        {
+          "cycle": "14.0",
+          "label": "2017 '__CODENAME__'",
+          "eol": "2027-10-12",
+          "status": "SUPPORTED",
+          "days_until_eol": 466,
+          "latest": "14.0.3530.2 CU31+GDR"
+        },
+        {
+          "cycle": "13.0-sp1",
+          "label": "2016 SP1",
+          "eol": "2019-07-09",
+          "status": "EOL",
+          "days_until_eol": -2551,
+          "latest": "13.0.4604.0 CU15+GDR"
+        },
+        {
+          "cycle": "12.0-sp2",
+          "label": "2014 '__CODENAME__' SP2",
+          "eol": "2020-01-14",
+          "status": "EOL",
+          "days_until_eol": -2362,
+          "latest": "12.0.5687.1 CU18"
+        },
+        {
+          "cycle": "13.0",
+          "label": "2016",
+          "eol": "2018-01-09",
+          "status": "EOL",
+          "days_until_eol": -3097,
+          "latest": "13.0.2218.0 CU9+GDR"
+        },
+        {
+          "cycle": "11.0-sp3",
+          "label": "2012 '__CODENAME__' SP3",
+          "eol": "2018-10-09",
+          "status": "EOL",
+          "days_until_eol": -2824,
+          "latest": "11.0.6614.2 CU10+QFE"
+        },
+        {
+          "cycle": "12.0-sp1",
+          "label": "2014 '__CODENAME__' SP1",
+          "eol": "2017-10-10",
+          "status": "EOL",
+          "days_until_eol": -3188,
+          "latest": "12.0.4522.0 CU13"
+        },
+        {
+          "cycle": "10.50-sp3",
+          "label": "2008 R2 '__CODENAME__' SP3",
+          "eol": "2019-07-09",
+          "status": "EOL",
+          "days_until_eol": -2551,
+          "latest": "10.50.6785.2 GDR"
+        },
+        {
+          "cycle": "10.0-sp4",
+          "label": "2008 '__CODENAME__' SP4",
+          "eol": "2019-07-09",
+          "status": "EOL",
+          "days_until_eol": -2551,
+          "latest": "10.0.6814.4 CU17+GDR"
+        },
+        {
+          "cycle": "11.0-sp2",
+          "label": "2012 '__CODENAME__' SP2",
+          "eol": "2017-01-10",
+          "status": "EOL",
+          "days_until_eol": -3461,
+          "latest": "11.0.5678.0 CU16"
+        },
+        {
+          "cycle": "12.0",
+          "label": "2014 '__CODENAME__'",
+          "eol": "2016-07-12",
+          "status": "EOL",
+          "days_until_eol": -3643,
+          "latest": "12.0.2569.0 CU14"
+        },
+        {
+          "cycle": "11.0-sp1",
+          "label": "2012 '__CODENAME__' SP1",
+          "eol": "2015-07-14",
+          "status": "EOL",
+          "days_until_eol": -4007,
+          "latest": "11.0.3513.0 CU13+QFE"
+        },
+        {
+          "cycle": "10.50-sp2",
+          "label": "2008 R2 '__CODENAME__' SP2",
+          "eol": "2015-10-13",
+          "status": "EOL",
+          "days_until_eol": -3916,
+          "latest": "10.50.4339.0 CU13+QFE"
+        },
+        {
+          "cycle": "11.0",
+          "label": "2012 '__CODENAME__'",
+          "eol": "2014-01-14",
+          "status": "EOL",
+          "days_until_eol": -4553,
+          "latest": "11.0.2424.0 CU11"
+        },
+        {
+          "cycle": "10.00-sp3",
+          "label": "2008 '__CODENAME__' SP3",
+          "eol": "2015-10-13",
+          "status": "EOL",
+          "days_until_eol": -3916,
+          "latest": "10.00.5861 CU16+QFE"
+        },
+        {
+          "cycle": "10.50-sp1",
+          "label": "2008 R2 '__CODENAME__' SP1",
+          "eol": "2013-10-08",
+          "status": "EOL",
+          "days_until_eol": -4651,
+          "latest": "10.50.2881.0 CU14"
+        },
+        {
+          "cycle": "9.0-sp4",
+          "label": "2005 '__CODENAME__' SP4",
+          "eol": "2016-04-12",
+          "status": "EOL",
+          "days_until_eol": -3734,
+          "latest": "9.0.5324.0 QFE"
+        },
+        {
+          "cycle": "10.00-sp2",
+          "label": "2008 '__CODENAME__' SP2",
+          "eol": "2012-10-09",
+          "status": "EOL",
+          "days_until_eol": -5015,
+          "latest": "10.00.4371 CU10+QFE"
+        },
+        {
+          "cycle": "10.50-r2",
+          "label": "2008 '__CODENAME__' R2",
+          "eol": "2012-07-10",
+          "status": "EOL",
+          "days_until_eol": -5106,
+          "latest": "10.50.1815.0 CU13"
+        },
+        {
+          "cycle": "10.00-sp1",
+          "label": "2008 '__CODENAME__' SP1",
+          "eol": "2011-10-11",
+          "status": "EOL",
+          "days_until_eol": -5379,
+          "latest": "10.00.2850 CU16"
+        },
+        {
+          "cycle": "9.00-sp3",
+          "label": "2005 '__CODENAME__' SP3",
+          "eol": "2012-01-10",
+          "status": "EOL",
+          "days_until_eol": -5288,
+          "latest": "9.00.4309 CU11"
+        },
+        {
+          "cycle": "10.00",
+          "label": "2008 '__CODENAME__'",
+          "eol": "2010-04-13",
+          "status": "EOL",
+          "days_until_eol": -5925,
+          "latest": "10.00.1835 CU10"
+        },
+        {
+          "cycle": "9.00-sp2",
+          "label": "2005 '__CODENAME__' SP2",
+          "eol": "2010-01-12",
+          "status": "EOL",
+          "days_until_eol": -6016,
+          "latest": "9.00.3325 CU13"
+        },
+        {
+          "cycle": "9.0-sp1",
+          "label": "2005 '__CODENAME__' SP1",
+          "eol": "2008-04-08",
+          "status": "EOL",
+          "days_until_eol": -6660,
+          "latest": "9.0.2233"
+        },
+        {
+          "cycle": "9.0",
+          "label": "2005 '__CODENAME__'",
+          "eol": "2007-07-10",
+          "status": "EOL",
+          "days_until_eol": -6933,
+          "latest": "9.0.1399"
+        },
+        {
+          "cycle": "8.0-sp4",
+          "label": "2000 '__CODENAME__' SP4",
+          "eol": "2013-04-09",
+          "status": "EOL",
+          "days_until_eol": -4833,
+          "latest": "8.0.2305 QFE"
+        },
+        {
+          "cycle": "7.0-sp4",
+          "label": "7.0 '__CODENAME__' SP4",
+          "eol": "2011-01-11",
+          "status": "EOL",
+          "days_until_eol": -5652,
+          "latest": "7.0.1152"
+        },
+        {
+          "cycle": "6.50-sp5a",
+          "label": "6.5 '__CODENAME__' SP5a",
+          "eol": "2002-01-01",
+          "status": "EOL",
+          "days_until_eol": -8949,
+          "latest": "6.50.480"
+        },
+        {
+          "cycle": "6.0-sp3",
+          "label": "6.0 '__CODENAME__' SP3",
+          "eol": "1999-03-31",
+          "status": "EOL",
+          "days_until_eol": -9956,
+          "latest": "6.0.151"
+        }
+      ]
     },
     "office": {
       "display": "Microsoft Office",
