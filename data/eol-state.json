@@ -2,7 +2,7 @@
   "android:13": "EOL",
   "cisco-ios-xe:17.17": "EOL",
   "cisco-ios-xe:17.9": "EOL_SOON",
-  "debian:12": "EOL_SOON",
+  "debian:12": "EOL",
   "ios:12": "EOL",
   "macos:10.15": "EOL",
   "macos:11": "EOL",
