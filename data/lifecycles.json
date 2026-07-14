@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-07-13T12:27:30.301595Z",
-  "date": "2026-07-13",
+  "checked_at": "2026-07-14T11:20:32.171681Z",
+  "date": "2026-07-14",
   "products": {
     "windows": {
       "display": "Windows",
@@ -11,7 +11,7 @@
           "label": "11 26H1 (E)",
           "eol": "2029-03-13",
           "status": "SUPPORTED",
-          "days_until_eol": 974,
+          "days_until_eol": 973,
           "latest": "10.0.28000"
         },
         {
@@ -19,7 +19,7 @@
           "label": "11 26H1 (W)",
           "eol": "2028-03-14",
           "status": "SUPPORTED",
-          "days_until_eol": 610,
+          "days_until_eol": 609,
           "latest": "10.0.28000"
         },
         {
@@ -27,7 +27,7 @@
           "label": "11 25H2 (E)",
           "eol": "2028-10-10",
           "status": "SUPPORTED",
-          "days_until_eol": 820,
+          "days_until_eol": 819,
           "latest": "10.0.26200"
         },
         {
@@ -35,7 +35,7 @@
           "label": "11 25H2 (W)",
           "eol": "2027-10-12",
           "status": "SUPPORTED",
-          "days_until_eol": 456,
+          "days_until_eol": 455,
           "latest": "10.0.26200"
         },
         {
@@ -43,7 +43,7 @@
           "label": "11 24H2 IoT",
           "eol": "2034-10-10",
           "status": "SUPPORTED",
-          "days_until_eol": 3011,
+          "days_until_eol": 3010,
           "latest": "10.0.26100"
         },
         {
@@ -51,7 +51,7 @@
           "label": "11 24H2 (E)",
           "eol": "2029-10-09",
           "status": "SUPPORTED",
-          "days_until_eol": 1184,
+          "days_until_eol": 1183,
           "latest": "10.0.26100"
         },
         {
@@ -59,7 +59,7 @@
           "label": "11 24H2 (E)",
           "eol": "2027-10-12",
           "status": "SUPPORTED",
-          "days_until_eol": 456,
+          "days_until_eol": 455,
           "latest": "10.0.26100"
         },
         {
@@ -67,7 +67,7 @@
           "label": "11 24H2 (W)",
           "eol": "2026-10-13",
           "status": "SUPPORTED",
-          "days_until_eol": 92,
+          "days_until_eol": 91,
           "latest": "10.0.26100"
         },
         {
@@ -75,7 +75,7 @@
           "label": "11 23H2 (E)",
           "eol": "2026-11-10",
           "status": "SUPPORTED",
-          "days_until_eol": 120,
+          "days_until_eol": 119,
           "latest": "10.0.22631"
         },
         {
@@ -83,7 +83,7 @@
           "label": "11 23H2 (W)",
           "eol": "2025-11-11",
           "status": "EOL",
-          "days_until_eol": -244,
+          "days_until_eol": -245,
           "latest": "10.0.22631"
         },
         {
@@ -91,7 +91,7 @@
           "label": "10 22H2",
           "eol": "2025-10-14",
           "status": "EOL",
-          "days_until_eol": -272,
+          "days_until_eol": -273,
           "latest": "10.0.19045"
         },
         {
@@ -99,7 +99,7 @@
           "label": "11 22H2 (E)",
           "eol": "2025-10-14",
           "status": "EOL",
-          "days_until_eol": -272,
+          "days_until_eol": -273,
           "latest": "10.0.22621"
         },
         {
@@ -107,7 +107,7 @@
           "label": "11 22H2 (W)",
           "eol": "2024-10-08",
           "status": "EOL",
-          "days_until_eol": -643,
+          "days_until_eol": -644,
           "latest": "10.0.22621"
         },
         {
@@ -115,7 +115,7 @@
           "label": "10 21H2 IoT",
           "eol": "2032-01-13",
           "status": "SUPPORTED",
-          "days_until_eol": 2010,
+          "days_until_eol": 2009,
           "latest": "10.0.19044"
         },
         {
@@ -123,7 +123,7 @@
           "label": "10 21H2 (E)",
           "eol": "2027-01-12",
           "status": "SUPPORTED",
-          "days_until_eol": 183,
+          "days_until_eol": 182,
           "latest": "10.0.19044"
         },
         {
@@ -131,7 +131,7 @@
           "label": "10 21H2 (E)",
           "eol": "2024-06-11",
           "status": "EOL",
-          "days_until_eol": -762,
+          "days_until_eol": -763,
           "latest": "10.0.19044"
         },
         {
@@ -139,7 +139,7 @@
           "label": "10 21H2 (W)",
           "eol": "2023-06-13",
           "status": "EOL",
-          "days_until_eol": -1126,
+          "days_until_eol": -1127,
           "latest": "10.0.19044"
         },
         {
@@ -147,7 +147,7 @@
           "label": "11 21H2 (E)",
           "eol": "2024-10-08",
           "status": "EOL",
-          "days_until_eol": -643,
+          "days_until_eol": -644,
           "latest": "10.0.22000"
         },
         {
@@ -155,7 +155,7 @@
           "label": "11 21H2 (W)",
           "eol": "2023-10-10",
           "status": "EOL",
-          "days_until_eol": -1007,
+          "days_until_eol": -1008,
           "latest": "10.0.22000"
         },
         {
@@ -163,7 +163,7 @@
           "label": "10 21H1",
           "eol": "2022-12-13",
           "status": "EOL",
-          "days_until_eol": -1308,
+          "days_until_eol": -1309,
           "latest": "10.0.19043"
         },
         {
@@ -171,7 +171,7 @@
           "label": "10 20H2 (E)",
           "eol": "2023-05-09",
           "status": "EOL",
-          "days_until_eol": -1161,
+          "days_until_eol": -1162,
           "latest": "10.0.19042"
         },
         {
@@ -179,7 +179,7 @@
           "label": "10 20H2 (W)",
           "eol": "2022-05-10",
           "status": "EOL",
-          "days_until_eol": -1525,
+          "days_until_eol": -1526,
           "latest": "10.0.19042"
         },
         {
@@ -187,7 +187,7 @@
           "label": "10 2004",
           "eol": "2021-12-14",
           "status": "EOL",
-          "days_until_eol": -1672,
+          "days_until_eol": -1673,
           "latest": "10.0.19041"
         },
         {
@@ -195,7 +195,7 @@
           "label": "10 1909 (E)",
           "eol": "2022-05-10",
           "status": "EOL",
-          "days_until_eol": -1525,
+          "days_until_eol": -1526,
           "latest": "10.0.18363"
         },
         {
@@ -203,7 +203,7 @@
           "label": "10 1909 (W)",
           "eol": "2021-05-11",
           "status": "EOL",
-          "days_until_eol": -1889,
+          "days_until_eol": -1890,
           "latest": "10.0.18363"
         },
         {
@@ -211,7 +211,7 @@
           "label": "10 1903",
           "eol": "2020-12-08",
           "status": "EOL",
-          "days_until_eol": -2043,
+          "days_until_eol": -2044,
           "latest": "10.0.18362"
         },
         {
@@ -219,7 +219,7 @@
           "label": "10 1809 (E)",
           "eol": "2029-01-09",
           "status": "SUPPORTED",
-          "days_until_eol": 911,
+          "days_until_eol": 910,
           "latest": "10.0.17763"
         },
         {
@@ -227,7 +227,7 @@
           "label": "10 1809 (E)",
           "eol": "2021-05-11",
           "status": "EOL",
-          "days_until_eol": -1889,
+          "days_until_eol": -1890,
           "latest": "10.0.17763"
         },
         {
@@ -235,7 +235,7 @@
           "label": "10 1809 (W)",
           "eol": "2020-11-10",
           "status": "EOL",
-          "days_until_eol": -2071,
+          "days_until_eol": -2072,
           "latest": "10.0.17763"
         },
         {
@@ -243,7 +243,7 @@
           "label": "10 1803 (E)",
           "eol": "2021-05-11",
           "status": "EOL",
-          "days_until_eol": -1889,
+          "days_until_eol": -1890,
           "latest": "10.0.17134"
         },
         {
@@ -251,7 +251,7 @@
           "label": "10 1803 (W)",
           "eol": "2019-11-12",
           "status": "EOL",
-          "days_until_eol": -2435,
+          "days_until_eol": -2436,
           "latest": "10.0.17134"
         },
         {
@@ -259,7 +259,7 @@
           "label": "10 1709 (E)",
           "eol": "2020-10-13",
           "status": "EOL",
-          "days_until_eol": -2099,
+          "days_until_eol": -2100,
           "latest": "10.0.16299"
         },
         {
@@ -267,7 +267,7 @@
           "label": "10 1709 (W)",
           "eol": "2019-04-09",
           "status": "EOL",
-          "days_until_eol": -2652,
+          "days_until_eol": -2653,
           "latest": "10.0.16299"
         },
         {
@@ -275,7 +275,7 @@
           "label": "10 1703 (E)",
           "eol": "2019-10-08",
           "status": "EOL",
-          "days_until_eol": -2470,
+          "days_until_eol": -2471,
           "latest": "10.0.15063"
         },
         {
@@ -283,7 +283,7 @@
           "label": "10 1703 (W)",
           "eol": "2018-10-09",
           "status": "EOL",
-          "days_until_eol": -2834,
+          "days_until_eol": -2835,
           "latest": "10.0.15063"
         },
         {
@@ -291,7 +291,7 @@
           "label": "10 1607 (E)",
           "eol": "2026-10-13",
           "status": "SUPPORTED",
-          "days_until_eol": 92,
+          "days_until_eol": 91,
           "latest": "10.0.14393"
         },
         {
@@ -299,7 +299,7 @@
           "label": "10 1607 (E)",
           "eol": "2019-04-09",
           "status": "EOL",
-          "days_until_eol": -2652,
+          "days_until_eol": -2653,
           "latest": "10.0.14393"
         },
         {
@@ -307,7 +307,7 @@
           "label": "10 1607 (W)",
           "eol": "2018-04-10",
           "status": "EOL",
-          "days_until_eol": -3016,
+          "days_until_eol": -3017,
           "latest": "10.0.14393"
         },
         {
@@ -315,7 +315,7 @@
           "label": "10 1511",
           "eol": "2017-10-10",
           "status": "EOL",
-          "days_until_eol": -3198,
+          "days_until_eol": -3199,
           "latest": "10.0.10586"
         },
         {
@@ -323,7 +323,7 @@
           "label": "10 1507 (E)",
           "eol": "2025-10-14",
           "status": "EOL",
-          "days_until_eol": -272,
+          "days_until_eol": -273,
           "latest": "10.0.10240"
         },
         {
@@ -331,7 +331,7 @@
           "label": "10 1507",
           "eol": "2017-05-09",
           "status": "EOL",
-          "days_until_eol": -3352,
+          "days_until_eol": -3353,
           "latest": "10.0.10240"
         },
         {
@@ -339,7 +339,7 @@
           "label": "10 1507 IOT",
           "eol": "2020-11-10",
           "status": "EOL",
-          "days_until_eol": -2071,
+          "days_until_eol": -2072,
           "latest": "10.0.10240"
         },
         {
@@ -347,7 +347,7 @@
           "label": "8.1",
           "eol": "2023-01-10",
           "status": "EOL",
-          "days_until_eol": -1280,
+          "days_until_eol": -1281,
           "latest": "6.3.9600"
         },
         {
@@ -355,7 +355,7 @@
           "label": "8",
           "eol": "2016-01-12",
           "status": "EOL",
-          "days_until_eol": -3835,
+          "days_until_eol": -3836,
           "latest": "6.2.9200"
         },
         {
@@ -363,7 +363,7 @@
           "label": "7 SP1",
           "eol": "2020-01-14",
           "status": "EOL",
-          "days_until_eol": -2372,
+          "days_until_eol": -2373,
           "latest": "6.1.7601"
         },
         {
@@ -371,7 +371,7 @@
           "label": "Vista SP2",
           "eol": "2017-04-11",
           "status": "EOL",
-          "days_until_eol": -3380,
+          "days_until_eol": -3381,
           "latest": "6.0.6200"
         },
         {
@@ -379,7 +379,7 @@
           "label": "XP SP3",
           "eol": "2014-04-08",
           "status": "EOL",
-          "days_until_eol": -4479,
+          "days_until_eol": -4480,
           "latest": "5.1.2600"
         }
       ]
@@ -393,7 +393,7 @@
           "label": "Windows Server 2025",
           "eol": "2034-10-10",
           "status": "SUPPORTED",
-          "days_until_eol": 3011,
+          "days_until_eol": 3010,
           "latest": "10.0.26100"
         },
         {
@@ -401,7 +401,7 @@
           "label": "Windows Server 23H2 AC",
           "eol": "2025-10-24",
           "status": "EOL",
-          "days_until_eol": -262,
+          "days_until_eol": -263,
           "latest": "10.0.25398"
         },
         {
@@ -409,7 +409,7 @@
           "label": "Windows Server 2022",
           "eol": "2031-10-14",
           "status": "SUPPORTED",
-          "days_until_eol": 1919,
+          "days_until_eol": 1918,
           "latest": "10.0.20348"
         },
         {
@@ -417,7 +417,7 @@
           "label": "Windows Server 20H2 SAC",
           "eol": "2022-08-09",
           "status": "EOL",
-          "days_until_eol": -1434,
+          "days_until_eol": -1435,
           "latest": "10.0.19042"
         },
         {
@@ -425,7 +425,7 @@
           "label": "Windows Server 2004 SAC",
           "eol": "2021-12-14",
           "status": "EOL",
-          "days_until_eol": -1672,
+          "days_until_eol": -1673,
           "latest": "10.0.19041"
         },
         {
@@ -433,7 +433,7 @@
           "label": "Windows Server 1909 SAC",
           "eol": "2021-05-11",
           "status": "EOL",
-          "days_until_eol": -1889,
+          "days_until_eol": -1890,
           "latest": "10.0.18363"
         },
         {
@@ -441,7 +441,7 @@
           "label": "Windows Server 1903 SAC",
           "eol": "2020-12-08",
           "status": "EOL",
-          "days_until_eol": -2043,
+          "days_until_eol": -2044,
           "latest": "10.0.18362"
         },
         {
@@ -449,7 +449,7 @@
           "label": "Windows Server 1809 SAC",
           "eol": "2020-11-10",
           "status": "EOL",
-          "days_until_eol": -2071,
+          "days_until_eol": -2072,
           "latest": "10.0.17763"
         },
         {
@@ -457,7 +457,7 @@
           "label": "Windows Server 2019",
           "eol": "2029-01-09",
           "status": "SUPPORTED",
-          "days_until_eol": 911,
+          "days_until_eol": 910,
           "latest": "10.0.17763"
         },
         {
@@ -465,7 +465,7 @@
           "label": "Windows Server 1803 SAC",
           "eol": "2019-11-12",
           "status": "EOL",
-          "days_until_eol": -2435,
+          "days_until_eol": -2436,
           "latest": "10.0.17134"
         },
         {
@@ -473,7 +473,7 @@
           "label": "Windows Server 1709 SAC",
           "eol": "2019-04-09",
           "status": "EOL",
-          "days_until_eol": -2652,
+          "days_until_eol": -2653,
           "latest": "10.0.16299"
         },
         {
@@ -481,7 +481,7 @@
           "label": "Windows Server 2016",
           "eol": "2027-01-12",
           "status": "SUPPORTED",
-          "days_until_eol": 183,
+          "days_until_eol": 182,
           "latest": "10.0.14393"
         },
         {
@@ -489,7 +489,7 @@
           "label": "Windows Server 2012 R2",
           "eol": "2023-10-10",
           "status": "EOL",
-          "days_until_eol": -1007,
+          "days_until_eol": -1008,
           "latest": "6.3.9600"
         },
         {
@@ -497,7 +497,7 @@
           "label": "Windows Server 2012",
           "eol": "2023-10-10",
           "status": "EOL",
-          "days_until_eol": -1007,
+          "days_until_eol": -1008,
           "latest": "6.2.9200"
         },
         {
@@ -505,7 +505,7 @@
           "label": "Windows Server 2008 R2 SP1",
           "eol": "2020-01-14",
           "status": "EOL",
-          "days_until_eol": -2372,
+          "days_until_eol": -2373,
           "latest": "6.1.7601"
         },
         {
@@ -513,7 +513,7 @@
           "label": "Windows Server 2008 SP2",
           "eol": "2020-01-14",
           "status": "EOL",
-          "days_until_eol": -2372,
+          "days_until_eol": -2373,
           "latest": "6.0.6003"
         },
         {
@@ -521,7 +521,7 @@
           "label": "Windows Server 2003 SP2",
           "eol": "2015-07-14",
           "status": "EOL",
-          "days_until_eol": -4017,
+          "days_until_eol": -4018,
           "latest": "5.2.3790"
         },
         {
@@ -529,7 +529,7 @@
           "label": "Windows Server 2003 SP1",
           "eol": "2009-04-14",
           "status": "EOL",
-          "days_until_eol": -6299,
+          "days_until_eol": -6300,
           "latest": "5.2.3790"
         },
         {
@@ -537,7 +537,7 @@
           "label": "Windows Server 2003",
           "eol": "2007-04-10",
           "status": "EOL",
-          "days_until_eol": -7034,
+          "days_until_eol": -7035,
           "latest": "5.2.3790"
         },
         {
@@ -545,7 +545,7 @@
           "label": "Windows Server 2000",
           "eol": "2010-07-13",
           "status": "EOL",
-          "days_until_eol": -5844,
+          "days_until_eol": -5845,
           "latest": "5.0.2195"
         }
       ]
@@ -583,7 +583,7 @@
           "label": "macOS 13",
           "eol": "2025-09-15",
           "status": "EOL",
-          "days_until_eol": -301,
+          "days_until_eol": -302,
           "latest": "13.7.8"
         },
         {
@@ -591,7 +591,7 @@
           "label": "macOS 12",
           "eol": "2024-09-16",
           "status": "EOL",
-          "days_until_eol": -665,
+          "days_until_eol": -666,
           "latest": "12.7.6"
         },
         {
@@ -599,7 +599,7 @@
           "label": "macOS 11",
           "eol": "2026-02-02",
           "status": "EOL",
-          "days_until_eol": -161,
+          "days_until_eol": -162,
           "latest": "11.7.11"
         },
         {
@@ -607,7 +607,7 @@
           "label": "macOS 10.15",
           "eol": "2026-02-02",
           "status": "EOL",
-          "days_until_eol": -161,
+          "days_until_eol": -162,
           "latest": "10.15.8"
         },
         {
@@ -615,7 +615,7 @@
           "label": "macOS 10.14",
           "eol": "2021-10-25",
           "status": "EOL",
-          "days_until_eol": -1722,
+          "days_until_eol": -1723,
           "latest": "10.14.6"
         },
         {
@@ -623,7 +623,7 @@
           "label": "macOS 10.13",
           "eol": "2020-12-01",
           "status": "EOL",
-          "days_until_eol": -2050,
+          "days_until_eol": -2051,
           "latest": "10.13.6"
         },
         {
@@ -631,7 +631,7 @@
           "label": "macOS 10.12",
           "eol": "2019-10-01",
           "status": "EOL",
-          "days_until_eol": -2477,
+          "days_until_eol": -2478,
           "latest": "10.12.6"
         },
         {
@@ -639,7 +639,7 @@
           "label": "OS X __RELEASE_CYCLE__ (__CODENAME__)",
           "eol": "2018-12-01",
           "status": "EOL",
-          "days_until_eol": -2781,
+          "days_until_eol": -2782,
           "latest": "10.11.6"
         },
         {
@@ -647,7 +647,7 @@
           "label": "OS X __RELEASE_CYCLE__ (__CODENAME__)",
           "eol": "2017-08-01",
           "status": "EOL",
-          "days_until_eol": -3268,
+          "days_until_eol": -3269,
           "latest": "10.10.5"
         },
         {
@@ -655,7 +655,7 @@
           "label": "OS X __RELEASE_CYCLE__ (__CODENAME__)",
           "eol": "2016-12-01",
           "status": "EOL",
-          "days_until_eol": -3511,
+          "days_until_eol": -3512,
           "latest": "10.9.5"
         },
         {
@@ -663,7 +663,7 @@
           "label": "OS X __RELEASE_CYCLE__ (__CODENAME__)",
           "eol": "2015-08-13",
           "status": "EOL",
-          "days_until_eol": -3987,
+          "days_until_eol": -3988,
           "latest": "10.8.5"
         },
         {
@@ -671,7 +671,7 @@
           "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
           "eol": "2012-10-04",
           "status": "EOL",
-          "days_until_eol": -5030,
+          "days_until_eol": -5031,
           "latest": "10.7.5"
         },
         {
@@ -679,7 +679,7 @@
           "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
           "eol": "2011-07-25",
           "status": "EOL",
-          "days_until_eol": -5467,
+          "days_until_eol": -5468,
           "latest": "10.6.8"
         },
         {
@@ -687,7 +687,7 @@
           "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
           "eol": "2009-08-13",
           "status": "EOL",
-          "days_until_eol": -6178,
+          "days_until_eol": -6179,
           "latest": "10.5.8"
         },
         {
@@ -695,7 +695,7 @@
           "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
           "eol": "2007-11-14",
           "status": "EOL",
-          "days_until_eol": -6816,
+          "days_until_eol": -6817,
           "latest": "10.4.11"
         },
         {
@@ -703,7 +703,7 @@
           "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
           "eol": "2005-04-15",
           "status": "EOL",
-          "days_until_eol": -7759,
+          "days_until_eol": -7760,
           "latest": "10.3.9"
         },
         {
@@ -711,7 +711,7 @@
           "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
           "eol": "2003-10-03",
           "status": "EOL",
-          "days_until_eol": -8319,
+          "days_until_eol": -8320,
           "latest": "10.2.8"
         },
         {
@@ -719,7 +719,7 @@
           "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
           "eol": "2002-06-06",
           "status": "EOL",
-          "days_until_eol": -8803,
+          "days_until_eol": -8804,
           "latest": "10.1.5"
         },
         {
@@ -727,7 +727,7 @@
           "label": "Mac OS X __RELEASE_CYCLE__ (__CODENAME__)",
           "eol": "2001-06-22",
           "status": "EOL",
-          "days_until_eol": -9152,
+          "days_until_eol": -9153,
           "latest": "10.0.4"
         }
       ]
@@ -757,7 +757,7 @@
           "label": "iOS 17",
           "eol": "2024-11-19",
           "status": "EOL",
-          "days_until_eol": -601,
+          "days_until_eol": -602,
           "latest": "17.7.2"
         },
         {
@@ -781,7 +781,7 @@
           "label": "iOS 14",
           "eol": "2021-10-26",
           "status": "EOL",
-          "days_until_eol": -1721,
+          "days_until_eol": -1722,
           "latest": "14.8.1"
         },
         {
@@ -789,7 +789,7 @@
           "label": "iOS 13",
           "eol": "2020-09-16",
           "status": "EOL",
-          "days_until_eol": -2126,
+          "days_until_eol": -2127,
           "latest": "13.7"
         },
         {
@@ -797,7 +797,7 @@
           "label": "iOS 12",
           "eol": "2026-01-26",
           "status": "EOL",
-          "days_until_eol": -168,
+          "days_until_eol": -169,
           "latest": "12.5.8"
         },
         {
@@ -805,7 +805,7 @@
           "label": "iOS 11",
           "eol": "2018-10-08",
           "status": "EOL",
-          "days_until_eol": -2835,
+          "days_until_eol": -2836,
           "latest": "11.4.1"
         },
         {
@@ -813,7 +813,7 @@
           "label": "iOS 10",
           "eol": "2019-07-22",
           "status": "EOL",
-          "days_until_eol": -2548,
+          "days_until_eol": -2549,
           "latest": "10.3.4"
         },
         {
@@ -821,7 +821,7 @@
           "label": "iOS 9",
           "eol": "2019-07-22",
           "status": "EOL",
-          "days_until_eol": -2548,
+          "days_until_eol": -2549,
           "latest": "9.3.6"
         },
         {
@@ -829,7 +829,7 @@
           "label": "iOS 8",
           "eol": "2015-09-30",
           "status": "EOL",
-          "days_until_eol": -3939,
+          "days_until_eol": -3940,
           "latest": "8.4.1"
         },
         {
@@ -837,7 +837,7 @@
           "label": "iOS 7",
           "eol": "2014-10-20",
           "status": "EOL",
-          "days_until_eol": -4284,
+          "days_until_eol": -4285,
           "latest": "7.1.2"
         },
         {
@@ -845,7 +845,7 @@
           "label": "iOS 6",
           "eol": "2013-09-26",
           "status": "EOL",
-          "days_until_eol": -4673,
+          "days_until_eol": -4674,
           "latest": "6.1.6"
         },
         {
@@ -853,7 +853,7 @@
           "label": "iOS 5",
           "eol": "2012-11-01",
           "status": "EOL",
-          "days_until_eol": -5002,
+          "days_until_eol": -5003,
           "latest": "5.1.1"
         }
       ]
@@ -899,7 +899,7 @@
           "label": "Android 13",
           "eol": "2026-03-02",
           "status": "EOL",
-          "days_until_eol": -133,
+          "days_until_eol": -134,
           "latest": ""
         },
         {
@@ -907,7 +907,7 @@
           "label": "12.1 'Snow Cone v2' (aka 12L)",
           "eol": "2025-03-03",
           "status": "EOL",
-          "days_until_eol": -497,
+          "days_until_eol": -498,
           "latest": ""
         },
         {
@@ -915,7 +915,7 @@
           "label": "Android 12",
           "eol": "2025-03-03",
           "status": "EOL",
-          "days_until_eol": -497,
+          "days_until_eol": -498,
           "latest": ""
         },
         {
@@ -923,7 +923,7 @@
           "label": "Android 11",
           "eol": "2024-02-05",
           "status": "EOL",
-          "days_until_eol": -889,
+          "days_until_eol": -890,
           "latest": ""
         },
         {
@@ -931,7 +931,7 @@
           "label": "Android 10",
           "eol": "2023-03-06",
           "status": "EOL",
-          "days_until_eol": -1225,
+          "days_until_eol": -1226,
           "latest": ""
         },
         {
@@ -939,7 +939,7 @@
           "label": "Android 9",
           "eol": "2022-01-01",
           "status": "EOL",
-          "days_until_eol": -1654,
+          "days_until_eol": -1655,
           "latest": ""
         },
         {
@@ -947,7 +947,7 @@
           "label": "Android 8.1",
           "eol": "2021-01-10",
           "status": "EOL",
-          "days_until_eol": -2010,
+          "days_until_eol": -2011,
           "latest": ""
         },
         {
@@ -955,7 +955,7 @@
           "label": "Android 8.0",
           "eol": "2021-01-01",
           "status": "EOL",
-          "days_until_eol": -2019,
+          "days_until_eol": -2020,
           "latest": ""
         },
         {
@@ -963,7 +963,7 @@
           "label": "Android 7.1",
           "eol": "2019-10-01",
           "status": "EOL",
-          "days_until_eol": -2477,
+          "days_until_eol": -2478,
           "latest": ""
         },
         {
@@ -971,7 +971,7 @@
           "label": "Android 7.0",
           "eol": "2019-10-01",
           "status": "EOL",
-          "days_until_eol": -2477,
+          "days_until_eol": -2478,
           "latest": ""
         },
         {
@@ -979,7 +979,7 @@
           "label": "Android 6.0",
           "eol": "2018-08-01",
           "status": "EOL",
-          "days_until_eol": -2903,
+          "days_until_eol": -2904,
           "latest": ""
         },
         {
@@ -987,7 +987,7 @@
           "label": "Android 5.1",
           "eol": "2018-03-01",
           "status": "EOL",
-          "days_until_eol": -3056,
+          "days_until_eol": -3057,
           "latest": ""
         },
         {
@@ -995,7 +995,7 @@
           "label": "Android 5.0",
           "eol": "2018-03-01",
           "status": "EOL",
-          "days_until_eol": -3056,
+          "days_until_eol": -3057,
           "latest": ""
         },
         {
@@ -1003,7 +1003,7 @@
           "label": "4.4W",
           "eol": "2017-10-01",
           "status": "EOL",
-          "days_until_eol": -3207,
+          "days_until_eol": -3208,
           "latest": ""
         },
         {
@@ -1011,7 +1011,7 @@
           "label": "Android 4.4",
           "eol": "2017-10-01",
           "status": "EOL",
-          "days_until_eol": -3207,
+          "days_until_eol": -3208,
           "latest": ""
         },
         {
@@ -1145,7 +1145,7 @@
           "label": "Ubuntu 26.04",
           "eol": "2031-04-30",
           "status": "SUPPORTED",
-          "days_until_eol": 1752,
+          "days_until_eol": 1751,
           "latest": "26.04"
         },
         {
@@ -1153,7 +1153,7 @@
           "label": "Ubuntu 25.10",
           "eol": "2026-07-01",
           "status": "EOL",
-          "days_until_eol": -12,
+          "days_until_eol": -13,
           "latest": "25.10"
         },
         {
@@ -1161,7 +1161,7 @@
           "label": "Ubuntu 25.04",
           "eol": "2026-01-17",
           "status": "EOL",
-          "days_until_eol": -177,
+          "days_until_eol": -178,
           "latest": "25.04"
         },
         {
@@ -1169,7 +1169,7 @@
           "label": "Ubuntu 24.10",
           "eol": "2025-07-10",
           "status": "EOL",
-          "days_until_eol": -368,
+          "days_until_eol": -369,
           "latest": "24.10"
         },
         {
@@ -1177,7 +1177,7 @@
           "label": "Ubuntu 24.04",
           "eol": "2029-05-31",
           "status": "SUPPORTED",
-          "days_until_eol": 1053,
+          "days_until_eol": 1052,
           "latest": "24.04.4"
         },
         {
@@ -1185,7 +1185,7 @@
           "label": "Ubuntu 23.10",
           "eol": "2024-07-12",
           "status": "EOL",
-          "days_until_eol": -731,
+          "days_until_eol": -732,
           "latest": "23.10"
         },
         {
@@ -1193,7 +1193,7 @@
           "label": "Ubuntu 23.04",
           "eol": "2024-01-20",
           "status": "EOL",
-          "days_until_eol": -905,
+          "days_until_eol": -906,
           "latest": "23.04"
         },
         {
@@ -1201,7 +1201,7 @@
           "label": "Ubuntu 22.10",
           "eol": "2023-07-20",
           "status": "EOL",
-          "days_until_eol": -1089,
+          "days_until_eol": -1090,
           "latest": "22.10"
         },
         {
@@ -1209,7 +1209,7 @@
           "label": "Ubuntu 22.04",
           "eol": "2027-04-01",
           "status": "SUPPORTED",
-          "days_until_eol": 262,
+          "days_until_eol": 261,
           "latest": "22.04.5"
         },
         {
@@ -1217,7 +1217,7 @@
           "label": "Ubuntu 21.10",
           "eol": "2022-07-14",
           "status": "EOL",
-          "days_until_eol": -1460,
+          "days_until_eol": -1461,
           "latest": "21.10"
         },
         {
@@ -1225,7 +1225,7 @@
           "label": "Ubuntu 21.04",
           "eol": "2022-01-20",
           "status": "EOL",
-          "days_until_eol": -1635,
+          "days_until_eol": -1636,
           "latest": "21.04"
         },
         {
@@ -1233,7 +1233,7 @@
           "label": "Ubuntu 20.10",
           "eol": "2021-07-22",
           "status": "EOL",
-          "days_until_eol": -1817,
+          "days_until_eol": -1818,
           "latest": "20.10"
         },
         {
@@ -1241,7 +1241,7 @@
           "label": "Ubuntu 20.04",
           "eol": "2025-05-31",
           "status": "EOL",
-          "days_until_eol": -408,
+          "days_until_eol": -409,
           "latest": "20.04.6"
         },
         {
@@ -1249,7 +1249,7 @@
           "label": "Ubuntu 19.10",
           "eol": "2020-07-06",
           "status": "EOL",
-          "days_until_eol": -2198,
+          "days_until_eol": -2199,
           "latest": "19.10"
         },
         {
@@ -1257,7 +1257,7 @@
           "label": "Ubuntu 19.04",
           "eol": "2020-01-23",
           "status": "EOL",
-          "days_until_eol": -2363,
+          "days_until_eol": -2364,
           "latest": "19.04"
         },
         {
@@ -1265,7 +1265,7 @@
           "label": "Ubuntu 18.10",
           "eol": "2019-07-18",
           "status": "EOL",
-          "days_until_eol": -2552,
+          "days_until_eol": -2553,
           "latest": "18.10"
         },
         {
@@ -1273,7 +1273,7 @@
           "label": "Ubuntu 18.04",
           "eol": "2023-05-31",
           "status": "EOL",
-          "days_until_eol": -1139,
+          "days_until_eol": -1140,
           "latest": "18.04.6"
         },
         {
@@ -1281,7 +1281,7 @@
           "label": "Ubuntu 17.10",
           "eol": "2018-07-19",
           "status": "EOL",
-          "days_until_eol": -2916,
+          "days_until_eol": -2917,
           "latest": "17.10"
         },
         {
@@ -1289,7 +1289,7 @@
           "label": "Ubuntu 17.04",
           "eol": "2018-01-13",
           "status": "EOL",
-          "days_until_eol": -3103,
+          "days_until_eol": -3104,
           "latest": "17.04"
         },
         {
@@ -1297,7 +1297,7 @@
           "label": "Ubuntu 16.10",
           "eol": "2017-07-20",
           "status": "EOL",
-          "days_until_eol": -3280,
+          "days_until_eol": -3281,
           "latest": "16.10"
         },
         {
@@ -1305,7 +1305,7 @@
           "label": "Ubuntu 16.04",
           "eol": "2021-04-02",
           "status": "EOL",
-          "days_until_eol": -1928,
+          "days_until_eol": -1929,
           "latest": "16.04.7"
         },
         {
@@ -1313,7 +1313,7 @@
           "label": "Ubuntu 15.10",
           "eol": "2016-07-28",
           "status": "EOL",
-          "days_until_eol": -3637,
+          "days_until_eol": -3638,
           "latest": "15.10"
         },
         {
@@ -1321,7 +1321,7 @@
           "label": "Ubuntu 15.04",
           "eol": "2016-02-04",
           "status": "EOL",
-          "days_until_eol": -3812,
+          "days_until_eol": -3813,
           "latest": "15.04"
         },
         {
@@ -1329,7 +1329,7 @@
           "label": "Ubuntu 14.10",
           "eol": "2015-07-23",
           "status": "EOL",
-          "days_until_eol": -4008,
+          "days_until_eol": -4009,
           "latest": "14.10"
         },
         {
@@ -1337,7 +1337,7 @@
           "label": "Ubuntu 14.04",
           "eol": "2019-04-02",
           "status": "EOL",
-          "days_until_eol": -2659,
+          "days_until_eol": -2660,
           "latest": "14.04.6"
         },
         {
@@ -1345,7 +1345,7 @@
           "label": "Ubuntu 13.10",
           "eol": "2014-07-17",
           "status": "EOL",
-          "days_until_eol": -4379,
+          "days_until_eol": -4380,
           "latest": "13.10"
         },
         {
@@ -1353,7 +1353,7 @@
           "label": "Ubuntu 13.04",
           "eol": "2014-01-27",
           "status": "EOL",
-          "days_until_eol": -4550,
+          "days_until_eol": -4551,
           "latest": "13.04"
         },
         {
@@ -1361,7 +1361,7 @@
           "label": "Ubuntu 12.10",
           "eol": "2014-05-16",
           "status": "EOL",
-          "days_until_eol": -4441,
+          "days_until_eol": -4442,
           "latest": "12.10"
         },
         {
@@ -1369,7 +1369,7 @@
           "label": "Ubuntu 12.04",
           "eol": "2017-04-28",
           "status": "EOL",
-          "days_until_eol": -3363,
+          "days_until_eol": -3364,
           "latest": "12.04.5"
         },
         {
@@ -1377,7 +1377,7 @@
           "label": "Ubuntu 11.10",
           "eol": "2013-05-09",
           "status": "EOL",
-          "days_until_eol": -4813,
+          "days_until_eol": -4814,
           "latest": "11.10"
         },
         {
@@ -1385,7 +1385,7 @@
           "label": "Ubuntu 11.04",
           "eol": "2012-10-28",
           "status": "EOL",
-          "days_until_eol": -5006,
+          "days_until_eol": -5007,
           "latest": "11.04"
         },
         {
@@ -1393,7 +1393,7 @@
           "label": "Ubuntu 10.10",
           "eol": "2012-04-10",
           "status": "EOL",
-          "days_until_eol": -5207,
+          "days_until_eol": -5208,
           "latest": "10.10"
         },
         {
@@ -1401,7 +1401,7 @@
           "label": "Ubuntu 10.04",
           "eol": "2013-05-09",
           "status": "EOL",
-          "days_until_eol": -4813,
+          "days_until_eol": -4814,
           "latest": "10.04.4"
         },
         {
@@ -1409,7 +1409,7 @@
           "label": "Ubuntu 9.10",
           "eol": "2011-04-30",
           "status": "EOL",
-          "days_until_eol": -5553,
+          "days_until_eol": -5554,
           "latest": "9.10"
         },
         {
@@ -1417,7 +1417,7 @@
           "label": "Ubuntu 9.04",
           "eol": "2010-10-23",
           "status": "EOL",
-          "days_until_eol": -5742,
+          "days_until_eol": -5743,
           "latest": "9.04"
         },
         {
@@ -1425,7 +1425,7 @@
           "label": "Ubuntu 8.10",
           "eol": "2010-04-30",
           "status": "EOL",
-          "days_until_eol": -5918,
+          "days_until_eol": -5919,
           "latest": "8.10"
         },
         {
@@ -1433,7 +1433,7 @@
           "label": "Ubuntu 8.04",
           "eol": "2013-05-09",
           "status": "EOL",
-          "days_until_eol": -4813,
+          "days_until_eol": -4814,
           "latest": "8.04.4"
         },
         {
@@ -1441,7 +1441,7 @@
           "label": "Ubuntu 7.10",
           "eol": "2009-04-18",
           "status": "EOL",
-          "days_until_eol": -6295,
+          "days_until_eol": -6296,
           "latest": "7.10"
         },
         {
@@ -1449,7 +1449,7 @@
           "label": "Ubuntu 7.04",
           "eol": "2008-10-19",
           "status": "EOL",
-          "days_until_eol": -6476,
+          "days_until_eol": -6477,
           "latest": "7.04"
         },
         {
@@ -1457,7 +1457,7 @@
           "label": "Ubuntu 6.10",
           "eol": "2008-04-26",
           "status": "EOL",
-          "days_until_eol": -6652,
+          "days_until_eol": -6653,
           "latest": "6.10"
         },
         {
@@ -1465,7 +1465,7 @@
           "label": "Ubuntu 6.06",
           "eol": "2011-06-01",
           "status": "EOL",
-          "days_until_eol": -5521,
+          "days_until_eol": -5522,
           "latest": "6.06.2"
         },
         {
@@ -1473,7 +1473,7 @@
           "label": "Ubuntu 5.10",
           "eol": "2007-04-13",
           "status": "EOL",
-          "days_until_eol": -7031,
+          "days_until_eol": -7032,
           "latest": "5.10"
         },
         {
@@ -1481,7 +1481,7 @@
           "label": "Ubuntu 5.04",
           "eol": "2006-10-31",
           "status": "EOL",
-          "days_until_eol": -7195,
+          "days_until_eol": -7196,
           "latest": "5.04"
         },
         {
@@ -1489,7 +1489,7 @@
           "label": "Ubuntu 4.10",
           "eol": "2006-04-30",
           "status": "EOL",
-          "days_until_eol": -7379,
+          "days_until_eol": -7380,
           "latest": "4.10"
         }
       ]
@@ -1503,7 +1503,7 @@
           "label": "Debian 13",
           "eol": "2028-08-09",
           "status": "SUPPORTED",
-          "days_until_eol": 758,
+          "days_until_eol": 757,
           "latest": "13.6"
         },
         {
@@ -1511,7 +1511,7 @@
           "label": "Debian 12",
           "eol": "2026-07-11",
           "status": "EOL",
-          "days_until_eol": -2,
+          "days_until_eol": -3,
           "latest": "12.15"
         },
         {
@@ -1519,7 +1519,7 @@
           "label": "Debian 11",
           "eol": "2024-08-14",
           "status": "EOL",
-          "days_until_eol": -698,
+          "days_until_eol": -699,
           "latest": "11.11"
         },
         {
@@ -1527,7 +1527,7 @@
           "label": "Debian 10",
           "eol": "2022-09-10",
           "status": "EOL",
-          "days_until_eol": -1402,
+          "days_until_eol": -1403,
           "latest": "10.13"
         },
         {
@@ -1535,7 +1535,7 @@
           "label": "Debian 9",
           "eol": "2020-07-18",
           "status": "EOL",
-          "days_until_eol": -2186,
+          "days_until_eol": -2187,
           "latest": "9.13"
         },
         {
@@ -1543,7 +1543,7 @@
           "label": "Debian 8",
           "eol": "2018-06-17",
           "status": "EOL",
-          "days_until_eol": -2948,
+          "days_until_eol": -2949,
           "latest": "8.11"
         },
         {
@@ -1551,7 +1551,7 @@
           "label": "Debian 7",
           "eol": "2016-04-25",
           "status": "EOL",
-          "days_until_eol": -3731,
+          "days_until_eol": -3732,
           "latest": "7.11"
         },
         {
@@ -1559,7 +1559,7 @@
           "label": "Debian 6",
           "eol": "2014-05-31",
           "status": "EOL",
-          "days_until_eol": -4426,
+          "days_until_eol": -4427,
           "latest": "6.0.10"
         },
         {
@@ -1567,7 +1567,7 @@
           "label": "Debian 5",
           "eol": "2012-02-06",
           "status": "EOL",
-          "days_until_eol": -5271,
+          "days_until_eol": -5272,
           "latest": "5.0.10"
         },
         {
@@ -1575,7 +1575,7 @@
           "label": "Debian 4",
           "eol": "2010-02-15",
           "status": "EOL",
-          "days_until_eol": -5992,
+          "days_until_eol": -5993,
           "latest": "4.0r9"
         },
         {
@@ -1583,7 +1583,7 @@
           "label": "Debian 3.1",
           "eol": "2008-03-31",
           "status": "EOL",
-          "days_until_eol": -6678,
+          "days_until_eol": -6679,
           "latest": "3.1r8"
         },
         {
@@ -1591,7 +1591,7 @@
           "label": "Debian 3.0",
           "eol": "2006-06-30",
           "status": "EOL",
-          "days_until_eol": -7318,
+          "days_until_eol": -7319,
           "latest": "3.0r6"
         },
         {
@@ -1599,7 +1599,7 @@
           "label": "Debian 2.2",
           "eol": "2003-06-30",
           "status": "EOL",
-          "days_until_eol": -8414,
+          "days_until_eol": -8415,
           "latest": "2.2r7"
         },
         {
@@ -1607,7 +1607,7 @@
           "label": "Debian 2.1",
           "eol": "2000-09-30",
           "status": "EOL",
-          "days_until_eol": -9417,
+          "days_until_eol": -9418,
           "latest": "2.1r5"
         },
         {
@@ -1615,7 +1615,7 @@
           "label": "Debian 2.0",
           "eol": "1999-02-15",
           "status": "EOL",
-          "days_until_eol": -10010,
+          "days_until_eol": -10011,
           "latest": "2.0r5"
         },
         {
@@ -1623,7 +1623,7 @@
           "label": "Debian 1.3",
           "eol": "1998-12-08",
           "status": "EOL",
-          "days_until_eol": -10079,
+          "days_until_eol": -10080,
           "latest": "1.3.1 r.6"
         },
         {
@@ -1631,7 +1631,7 @@
           "label": "Debian 1.2",
           "eol": "1997-10-23",
           "status": "EOL",
-          "days_until_eol": -10490,
+          "days_until_eol": -10491,
           "latest": "1.2"
         },
         {
@@ -1639,7 +1639,7 @@
           "label": "Debian 1.1",
           "eol": "1996-12-12",
           "status": "EOL",
-          "days_until_eol": -10805,
+          "days_until_eol": -10806,
           "latest": "1.1"
         }
       ]
@@ -1653,7 +1653,7 @@
           "label": "Red Hat Enterprise Linux 10",
           "eol": "2035-05-31",
           "status": "SUPPORTED",
-          "days_until_eol": 3244,
+          "days_until_eol": 3243,
           "latest": "10.2"
         },
         {
@@ -1661,7 +1661,7 @@
           "label": "Red Hat Enterprise Linux 9",
           "eol": "2032-05-31",
           "status": "SUPPORTED",
-          "days_until_eol": 2149,
+          "days_until_eol": 2148,
           "latest": "9.8"
         },
         {
@@ -1669,7 +1669,7 @@
           "label": "Red Hat Enterprise Linux 8",
           "eol": "2029-05-31",
           "status": "SUPPORTED",
-          "days_until_eol": 1053,
+          "days_until_eol": 1052,
           "latest": "8.10"
         },
         {
@@ -1677,7 +1677,7 @@
           "label": "Red Hat Enterprise Linux 7",
           "eol": "2024-06-30",
           "status": "EOL",
-          "days_until_eol": -743,
+          "days_until_eol": -744,
           "latest": "7.9"
         },
         {
@@ -1685,7 +1685,7 @@
           "label": "Red Hat Enterprise Linux 6",
           "eol": "2020-11-30",
           "status": "EOL",
-          "days_until_eol": -2051,
+          "days_until_eol": -2052,
           "latest": "6.10"
         },
         {
@@ -1693,7 +1693,7 @@
           "label": "Red Hat Enterprise Linux 5",
           "eol": "2017-03-31",
           "status": "EOL",
-          "days_until_eol": -3391,
+          "days_until_eol": -3392,
           "latest": "5.11"
         },
         {
@@ -1701,7 +1701,7 @@
           "label": "Red Hat Enterprise Linux 4",
           "eol": "2012-02-29",
           "status": "EOL",
-          "days_until_eol": -5248,
+          "days_until_eol": -5249,
           "latest": "4.9"
         }
       ]
@@ -1715,7 +1715,7 @@
           "label": "PAN-OS (Palo Alto) 12.1",
           "eol": "2028-08-28",
           "status": "SUPPORTED",
-          "days_until_eol": 777,
+          "days_until_eol": 776,
           "latest": "12.1.8"
         },
         {
@@ -1723,7 +1723,7 @@
           "label": "PAN-OS (Palo Alto) 11.2",
           "eol": "2027-05-02",
           "status": "SUPPORTED",
-          "days_until_eol": 293,
+          "days_until_eol": 292,
           "latest": "11.2.13"
         },
         {
@@ -1731,7 +1731,7 @@
           "label": "PAN-OS (Palo Alto) 11.1",
           "eol": "2027-05-03",
           "status": "SUPPORTED",
-          "days_until_eol": 294,
+          "days_until_eol": 293,
           "latest": "11.1.16"
         },
         {
@@ -1739,7 +1739,7 @@
           "label": "PAN-OS (Palo Alto) 11.0",
           "eol": "2024-11-17",
           "status": "EOL",
-          "days_until_eol": -603,
+          "days_until_eol": -604,
           "latest": "11.0.6-h1"
         },
         {
@@ -1747,7 +1747,7 @@
           "label": "PAN-OS (Palo Alto) 10.2",
           "eol": "2025-08-27",
           "status": "EOL",
-          "days_until_eol": -320,
+          "days_until_eol": -321,
           "latest": "10.2.18-h8"
         },
         {
@@ -1755,7 +1755,7 @@
           "label": "PAN-OS (Palo Alto) 10.1",
           "eol": "2024-12-01",
           "status": "EOL",
-          "days_until_eol": -589,
+          "days_until_eol": -590,
           "latest": "10.1.14-h20"
         },
         {
@@ -1763,7 +1763,7 @@
           "label": "PAN-OS (Palo Alto) 10.0",
           "eol": "2022-07-16",
           "status": "EOL",
-          "days_until_eol": -1458,
+          "days_until_eol": -1459,
           "latest": "10.0.12-h6"
         },
         {
@@ -1771,7 +1771,7 @@
           "label": "PAN-OS (Palo Alto) 9.1",
           "eol": "2024-06-30",
           "status": "EOL",
-          "days_until_eol": -743,
+          "days_until_eol": -744,
           "latest": "9.1.19"
         },
         {
@@ -1779,7 +1779,7 @@
           "label": "9.0-XFR (VM-Series only)",
           "eol": "2020-09-19",
           "status": "EOL",
-          "days_until_eol": -2123,
+          "days_until_eol": -2124,
           "latest": "9.0-XFR (VM-Series only)"
         },
         {
@@ -1787,7 +1787,7 @@
           "label": "PAN-OS (Palo Alto) 9.0",
           "eol": "2022-03-01",
           "status": "EOL",
-          "days_until_eol": -1595,
+          "days_until_eol": -1596,
           "latest": "9.0.17-h5"
         },
         {
@@ -1795,7 +1795,7 @@
           "label": "PAN-OS (Palo Alto) 8.1",
           "eol": "2022-03-01",
           "status": "EOL",
-          "days_until_eol": -1595,
+          "days_until_eol": -1596,
           "latest": "8.1.24"
         },
         {
@@ -1803,7 +1803,7 @@
           "label": "PAN-OS (Palo Alto) 8.0",
           "eol": "2019-10-31",
           "status": "EOL",
-          "days_until_eol": -2447,
+          "days_until_eol": -2448,
           "latest": "8.0.20"
         },
         {
@@ -1811,7 +1811,7 @@
           "label": "PAN-OS (Palo Alto) 7.1",
           "eol": "2020-06-30",
           "status": "EOL",
-          "days_until_eol": -2204,
+          "days_until_eol": -2205,
           "latest": "7.1.26"
         },
         {
@@ -1819,7 +1819,7 @@
           "label": "PAN-OS (Palo Alto) 7.0",
           "eol": "2017-12-04",
           "status": "EOL",
-          "days_until_eol": -3143,
+          "days_until_eol": -3144,
           "latest": "7.0.19"
         },
         {
@@ -1827,7 +1827,7 @@
           "label": "PAN-OS (Palo Alto) 6.1",
           "eol": "2018-10-25",
           "status": "EOL",
-          "days_until_eol": -2818,
+          "days_until_eol": -2819,
           "latest": "6.1.22"
         },
         {
@@ -1835,7 +1835,7 @@
           "label": "PAN-OS (Palo Alto) 6.0",
           "eol": "2017-03-19",
           "status": "EOL",
-          "days_until_eol": -3403,
+          "days_until_eol": -3404,
           "latest": "6.0.15"
         },
         {
@@ -1843,7 +1843,7 @@
           "label": "PAN-OS (Palo Alto) 5.1",
           "eol": "2017-05-09",
           "status": "EOL",
-          "days_until_eol": -3352,
+          "days_until_eol": -3353,
           "latest": ""
         },
         {
@@ -1851,7 +1851,7 @@
           "label": "PAN-OS (Palo Alto) 5.0",
           "eol": "2016-11-13",
           "status": "EOL",
-          "days_until_eol": -3529,
+          "days_until_eol": -3530,
           "latest": ""
         },
         {
@@ -1859,7 +1859,7 @@
           "label": "PAN-OS (Palo Alto) 4.1",
           "eol": "2015-04-30",
           "status": "EOL",
-          "days_until_eol": -4092,
+          "days_until_eol": -4093,
           "latest": ""
         },
         {
@@ -1867,7 +1867,7 @@
           "label": "PAN-OS (Palo Alto) 4.0",
           "eol": "2014-12-31",
           "status": "EOL",
-          "days_until_eol": -4212,
+          "days_until_eol": -4213,
           "latest": ""
         },
         {
@@ -1875,7 +1875,7 @@
           "label": "PAN-OS (Palo Alto) 3.1",
           "eol": "2013-06-30",
           "status": "EOL",
-          "days_until_eol": -4761,
+          "days_until_eol": -4762,
           "latest": ""
         },
         {
@@ -1883,7 +1883,7 @@
           "label": "PAN-OS (Palo Alto) 3.0",
           "eol": "2010-12-17",
           "status": "EOL",
-          "days_until_eol": -5687,
+          "days_until_eol": -5688,
           "latest": ""
         },
         {
@@ -1891,7 +1891,7 @@
           "label": "PAN-OS (Palo Alto) 2.1",
           "eol": "2012-01-05",
           "status": "EOL",
-          "days_until_eol": -5303,
+          "days_until_eol": -5304,
           "latest": ""
         },
         {
@@ -1899,7 +1899,7 @@
           "label": "PAN-OS (Palo Alto) 2.0",
           "eol": "2009-05-20",
           "status": "EOL",
-          "days_until_eol": -6263,
+          "days_until_eol": -6264,
           "latest": ""
         },
         {
@@ -1907,7 +1907,7 @@
           "label": "PAN-OS (Palo Alto) 1.3",
           "eol": "2008-11-20",
           "status": "EOL",
-          "days_until_eol": -6444,
+          "days_until_eol": -6445,
           "latest": ""
         }
       ]
@@ -1921,7 +1921,7 @@
           "label": "Cisco IOS XE 17.18",
           "eol": "2029-08-08",
           "status": "SUPPORTED",
-          "days_until_eol": 1122,
+          "days_until_eol": 1121,
           "latest": ""
         },
         {
@@ -1929,7 +1929,7 @@
           "label": "Cisco IOS XE 17.17",
           "eol": "2026-03-31",
           "status": "EOL",
-          "days_until_eol": -104,
+          "days_until_eol": -105,
           "latest": ""
         },
         {
@@ -1937,7 +1937,7 @@
           "label": "Cisco IOS XE 17.16",
           "eol": "2025-12-11",
           "status": "EOL",
-          "days_until_eol": -214,
+          "days_until_eol": -215,
           "latest": ""
         },
         {
@@ -1945,7 +1945,7 @@
           "label": "Cisco IOS XE 17.15",
           "eol": "2028-08-09",
           "status": "SUPPORTED",
-          "days_until_eol": 758,
+          "days_until_eol": 757,
           "latest": ""
         },
         {
@@ -1953,7 +1953,7 @@
           "label": "Cisco IOS XE 17.14",
           "eol": "2025-04-13",
           "status": "EOL",
-          "days_until_eol": -456,
+          "days_until_eol": -457,
           "latest": ""
         },
         {
@@ -1961,7 +1961,7 @@
           "label": "Cisco IOS XE 17.13",
           "eol": "2024-11-30",
           "status": "EOL",
-          "days_until_eol": -590,
+          "days_until_eol": -591,
           "latest": ""
         },
         {
@@ -1969,7 +1969,7 @@
           "label": "Cisco IOS XE 17.12",
           "eol": "2027-07-28",
           "status": "SUPPORTED",
-          "days_until_eol": 380,
+          "days_until_eol": 379,
           "latest": ""
         },
         {
@@ -1977,7 +1977,7 @@
           "label": "Cisco IOS XE 17.11",
           "eol": "2024-03-28",
           "status": "EOL",
-          "days_until_eol": -837,
+          "days_until_eol": -838,
           "latest": ""
         },
         {
@@ -1985,7 +1985,7 @@
           "label": "Cisco IOS XE 17.10",
           "eol": "2023-11-30",
           "status": "EOL",
-          "days_until_eol": -956,
+          "days_until_eol": -957,
           "latest": ""
         },
         {
@@ -1993,7 +1993,7 @@
           "label": "Cisco IOS XE 17.9",
           "eol": "2026-07-29",
           "status": "EOL_SOON",
-          "days_until_eol": 16,
+          "days_until_eol": 15,
           "latest": ""
         },
         {
@@ -2001,7 +2001,7 @@
           "label": "Cisco IOS XE 17.8",
           "eol": "2023-04-11",
           "status": "EOL",
-          "days_until_eol": -1189,
+          "days_until_eol": -1190,
           "latest": ""
         },
         {
@@ -2009,7 +2009,7 @@
           "label": "Cisco IOS XE 17.7",
           "eol": "2022-11-30",
           "status": "EOL",
-          "days_until_eol": -1321,
+          "days_until_eol": -1322,
           "latest": ""
         },
         {
@@ -2017,7 +2017,7 @@
           "label": "Cisco IOS XE 17.6",
           "eol": "2024-07-30",
           "status": "EOL",
-          "days_until_eol": -713,
+          "days_until_eol": -714,
           "latest": ""
         },
         {
@@ -2025,7 +2025,7 @@
           "label": "Cisco IOS XE 17.5",
           "eol": "2022-03-31",
           "status": "EOL",
-          "days_until_eol": -1565,
+          "days_until_eol": -1566,
           "latest": ""
         },
         {
@@ -2033,7 +2033,7 @@
           "label": "Cisco IOS XE 17.4",
           "eol": "2021-11-30",
           "status": "EOL",
-          "days_until_eol": -1686,
+          "days_until_eol": -1687,
           "latest": ""
         },
         {
@@ -2041,7 +2041,7 @@
           "label": "Cisco IOS XE 17.3",
           "eol": "2024-07-31",
           "status": "EOL",
-          "days_until_eol": -712,
+          "days_until_eol": -713,
           "latest": ""
         },
         {
@@ -2049,7 +2049,7 @@
           "label": "Cisco IOS XE 17.2",
           "eol": "2021-03-30",
           "status": "EOL",
-          "days_until_eol": -1931,
+          "days_until_eol": -1932,
           "latest": ""
         },
         {
@@ -2057,7 +2057,7 @@
           "label": "Cisco IOS XE 17.1",
           "eol": "2020-11-21",
           "status": "EOL",
-          "days_until_eol": -2060,
+          "days_until_eol": -2061,
           "latest": ""
         },
         {
@@ -2065,7 +2065,7 @@
           "label": "Cisco IOS XE 16.12",
           "eol": "2023-07-31",
           "status": "EOL",
-          "days_until_eol": -1078,
+          "days_until_eol": -1079,
           "latest": ""
         }
       ]
@@ -2079,7 +2079,7 @@
           "label": "Python 3.14",
           "eol": "2030-10-31",
           "status": "SUPPORTED",
-          "days_until_eol": 1571,
+          "days_until_eol": 1570,
           "latest": "3.14.6"
         },
         {
@@ -2087,7 +2087,7 @@
           "label": "Python 3.13",
           "eol": "2029-10-31",
           "status": "SUPPORTED",
-          "days_until_eol": 1206,
+          "days_until_eol": 1205,
           "latest": "3.13.14"
         },
         {
@@ -2095,7 +2095,7 @@
           "label": "Python 3.12",
           "eol": "2028-10-31",
           "status": "SUPPORTED",
-          "days_until_eol": 841,
+          "days_until_eol": 840,
           "latest": "3.12.13"
         },
         {
@@ -2103,7 +2103,7 @@
           "label": "Python 3.11",
           "eol": "2027-10-31",
           "status": "SUPPORTED",
-          "days_until_eol": 475,
+          "days_until_eol": 474,
           "latest": "3.11.15"
         },
         {
@@ -2111,7 +2111,7 @@
           "label": "Python 3.10",
           "eol": "2026-10-31",
           "status": "SUPPORTED",
-          "days_until_eol": 110,
+          "days_until_eol": 109,
           "latest": "3.10.20"
         },
         {
@@ -2119,7 +2119,7 @@
           "label": "Python 3.9",
           "eol": "2025-10-31",
           "status": "EOL",
-          "days_until_eol": -255,
+          "days_until_eol": -256,
           "latest": "3.9.25"
         },
         {
@@ -2127,7 +2127,7 @@
           "label": "Python 3.8",
           "eol": "2024-10-07",
           "status": "EOL",
-          "days_until_eol": -644,
+          "days_until_eol": -645,
           "latest": "3.8.20"
         },
         {
@@ -2135,7 +2135,7 @@
           "label": "Python 3.7",
           "eol": "2023-06-27",
           "status": "EOL",
-          "days_until_eol": -1112,
+          "days_until_eol": -1113,
           "latest": "3.7.17"
         },
         {
@@ -2143,7 +2143,7 @@
           "label": "Python 3.6",
           "eol": "2021-12-23",
           "status": "EOL",
-          "days_until_eol": -1663,
+          "days_until_eol": -1664,
           "latest": "3.6.15"
         },
         {
@@ -2151,7 +2151,7 @@
           "label": "Python 3.5",
           "eol": "2020-09-30",
           "status": "EOL",
-          "days_until_eol": -2112,
+          "days_until_eol": -2113,
           "latest": "3.5.10"
         },
         {
@@ -2159,7 +2159,7 @@
           "label": "Python 3.4",
           "eol": "2019-03-18",
           "status": "EOL",
-          "days_until_eol": -2674,
+          "days_until_eol": -2675,
           "latest": "3.4.10"
         },
         {
@@ -2167,7 +2167,7 @@
           "label": "Python 3.3",
           "eol": "2017-09-29",
           "status": "EOL",
-          "days_until_eol": -3209,
+          "days_until_eol": -3210,
           "latest": "3.3.7"
         },
         {
@@ -2175,7 +2175,7 @@
           "label": "Python 3.2",
           "eol": "2016-02-20",
           "status": "EOL",
-          "days_until_eol": -3796,
+          "days_until_eol": -3797,
           "latest": "3.2.6"
         },
         {
@@ -2183,7 +2183,7 @@
           "label": "Python 2.7",
           "eol": "2020-01-01",
           "status": "EOL",
-          "days_until_eol": -2385,
+          "days_until_eol": -2386,
           "latest": "2.7.18"
         },
         {
@@ -2191,7 +2191,7 @@
           "label": "Python 3.1",
           "eol": "2012-04-09",
           "status": "EOL",
-          "days_until_eol": -5208,
+          "days_until_eol": -5209,
           "latest": "3.1.5"
         },
         {
@@ -2199,7 +2199,7 @@
           "label": "Python 3.0",
           "eol": "2009-06-27",
           "status": "EOL",
-          "days_until_eol": -6225,
+          "days_until_eol": -6226,
           "latest": "3.0.1"
         },
         {
@@ -2207,7 +2207,7 @@
           "label": "Python 2.6",
           "eol": "2013-10-29",
           "status": "EOL",
-          "days_until_eol": -4640,
+          "days_until_eol": -4641,
           "latest": "2.6.9"
         }
       ]
@@ -2221,7 +2221,7 @@
           "label": "PHP 8.5",
           "eol": "2029-12-31",
           "status": "SUPPORTED",
-          "days_until_eol": 1267,
+          "days_until_eol": 1266,
           "latest": "8.5.8"
         },
         {
@@ -2229,7 +2229,7 @@
           "label": "PHP 8.4",
           "eol": "2028-12-31",
           "status": "SUPPORTED",
-          "days_until_eol": 902,
+          "days_until_eol": 901,
           "latest": "8.4.23"
         },
         {
@@ -2237,7 +2237,7 @@
           "label": "PHP 8.3",
           "eol": "2027-12-31",
           "status": "SUPPORTED",
-          "days_until_eol": 536,
+          "days_until_eol": 535,
           "latest": "8.3.32"
         },
         {
@@ -2245,7 +2245,7 @@
           "label": "PHP 8.2",
           "eol": "2026-12-31",
           "status": "SUPPORTED",
-          "days_until_eol": 171,
+          "days_until_eol": 170,
           "latest": "8.2.32"
         },
         {
@@ -2253,7 +2253,7 @@
           "label": "PHP 8.1",
           "eol": "2025-12-31",
           "status": "EOL",
-          "days_until_eol": -194,
+          "days_until_eol": -195,
           "latest": "8.1.34"
         },
         {
@@ -2261,7 +2261,7 @@
           "label": "PHP 8.0",
           "eol": "2023-11-26",
           "status": "EOL",
-          "days_until_eol": -960,
+          "days_until_eol": -961,
           "latest": "8.0.30"
         },
         {
@@ -2269,7 +2269,7 @@
           "label": "PHP 7.4",
           "eol": "2022-11-28",
           "status": "EOL",
-          "days_until_eol": -1323,
+          "days_until_eol": -1324,
           "latest": "7.4.33"
         },
         {
@@ -2277,7 +2277,7 @@
           "label": "PHP 7.3",
           "eol": "2021-12-06",
           "status": "EOL",
-          "days_until_eol": -1680,
+          "days_until_eol": -1681,
           "latest": "7.3.33"
         },
         {
@@ -2285,7 +2285,7 @@
           "label": "PHP 7.2",
           "eol": "2020-11-30",
           "status": "EOL",
-          "days_until_eol": -2051,
+          "days_until_eol": -2052,
           "latest": "7.2.34"
         },
         {
@@ -2293,7 +2293,7 @@
           "label": "PHP 7.1",
           "eol": "2019-12-01",
           "status": "EOL",
-          "days_until_eol": -2416,
+          "days_until_eol": -2417,
           "latest": "7.1.33"
         },
         {
@@ -2301,7 +2301,7 @@
           "label": "PHP 7.0",
           "eol": "2019-01-10",
           "status": "EOL",
-          "days_until_eol": -2741,
+          "days_until_eol": -2742,
           "latest": "7.0.33"
         },
         {
@@ -2309,7 +2309,7 @@
           "label": "PHP 5.6",
           "eol": "2018-12-31",
           "status": "EOL",
-          "days_until_eol": -2751,
+          "days_until_eol": -2752,
           "latest": "5.6.40"
         },
         {
@@ -2317,7 +2317,7 @@
           "label": "PHP 5.5",
           "eol": "2016-07-21",
           "status": "EOL",
-          "days_until_eol": -3644,
+          "days_until_eol": -3645,
           "latest": "5.5.38"
         },
         {
@@ -2325,7 +2325,7 @@
           "label": "PHP 5.4",
           "eol": "2015-09-14",
           "status": "EOL",
-          "days_until_eol": -3955,
+          "days_until_eol": -3956,
           "latest": "5.4.45"
         },
         {
@@ -2333,7 +2333,7 @@
           "label": "PHP 5.3",
           "eol": "2014-08-14",
           "status": "EOL",
-          "days_until_eol": -4351,
+          "days_until_eol": -4352,
           "latest": "5.3.29"
         },
         {
@@ -2341,7 +2341,7 @@
           "label": "PHP 5.2",
           "eol": "2011-01-06",
           "status": "EOL",
-          "days_until_eol": -5667,
+          "days_until_eol": -5668,
           "latest": "5.2.17"
         },
         {
@@ -2349,7 +2349,7 @@
           "label": "PHP 5.1",
           "eol": "2006-08-24",
           "status": "EOL",
-          "days_until_eol": -7263,
+          "days_until_eol": -7264,
           "latest": "5.1.6"
         },
         {
@@ -2357,7 +2357,7 @@
           "label": "PHP 5.0",
           "eol": "2005-09-05",
           "status": "EOL",
-          "days_until_eol": -7616,
+          "days_until_eol": -7617,
           "latest": "5.0.5"
         }
       ]
@@ -2371,7 +2371,7 @@
           "label": "Node.js 26",
           "eol": "2029-04-30",
           "status": "SUPPORTED",
-          "days_until_eol": 1022,
+          "days_until_eol": 1021,
           "latest": "26.5.0"
         },
         {
@@ -2379,7 +2379,7 @@
           "label": "Node.js 25",
           "eol": "2026-06-01",
           "status": "EOL",
-          "days_until_eol": -42,
+          "days_until_eol": -43,
           "latest": "25.9.0"
         },
         {
@@ -2387,7 +2387,7 @@
           "label": "Node.js 24",
           "eol": "2028-04-30",
           "status": "SUPPORTED",
-          "days_until_eol": 657,
+          "days_until_eol": 656,
           "latest": "24.18.0"
         },
         {
@@ -2395,7 +2395,7 @@
           "label": "Node.js 23",
           "eol": "2025-06-01",
           "status": "EOL",
-          "days_until_eol": -407,
+          "days_until_eol": -408,
           "latest": "23.11.1"
         },
         {
@@ -2403,7 +2403,7 @@
           "label": "Node.js 22",
           "eol": "2027-04-30",
           "status": "SUPPORTED",
-          "days_until_eol": 291,
+          "days_until_eol": 290,
           "latest": "22.23.1"
         },
         {
@@ -2411,7 +2411,7 @@
           "label": "Node.js 21",
           "eol": "2024-06-01",
           "status": "EOL",
-          "days_until_eol": -772,
+          "days_until_eol": -773,
           "latest": "21.7.3"
         },
         {
@@ -2419,7 +2419,7 @@
           "label": "Node.js 20",
           "eol": "2026-04-30",
           "status": "EOL",
-          "days_until_eol": -74,
+          "days_until_eol": -75,
           "latest": "20.20.2"
         },
         {
@@ -2427,7 +2427,7 @@
           "label": "Node.js 19",
           "eol": "2023-06-01",
           "status": "EOL",
-          "days_until_eol": -1138,
+          "days_until_eol": -1139,
           "latest": "19.9.0"
         },
         {
@@ -2435,7 +2435,7 @@
           "label": "Node.js 18",
           "eol": "2025-04-30",
           "status": "EOL",
-          "days_until_eol": -439,
+          "days_until_eol": -440,
           "latest": "18.20.8"
         },
         {
@@ -2443,7 +2443,7 @@
           "label": "Node.js 17",
           "eol": "2022-06-01",
           "status": "EOL",
-          "days_until_eol": -1503,
+          "days_until_eol": -1504,
           "latest": "17.9.1"
         },
         {
@@ -2451,7 +2451,7 @@
           "label": "Node.js 16",
           "eol": "2023-09-11",
           "status": "EOL",
-          "days_until_eol": -1036,
+          "days_until_eol": -1037,
           "latest": "16.20.2"
         },
         {
@@ -2459,7 +2459,7 @@
           "label": "Node.js 15",
           "eol": "2021-06-01",
           "status": "EOL",
-          "days_until_eol": -1868,
+          "days_until_eol": -1869,
           "latest": "15.14.0"
         },
         {
@@ -2467,7 +2467,7 @@
           "label": "Node.js 14",
           "eol": "2023-04-30",
           "status": "EOL",
-          "days_until_eol": -1170,
+          "days_until_eol": -1171,
           "latest": "14.21.3"
         },
         {
@@ -2475,7 +2475,7 @@
           "label": "Node.js 13",
           "eol": "2020-06-01",
           "status": "EOL",
-          "days_until_eol": -2233,
+          "days_until_eol": -2234,
           "latest": "13.14.0"
         },
         {
@@ -2483,7 +2483,7 @@
           "label": "Node.js 12",
           "eol": "2022-04-30",
           "status": "EOL",
-          "days_until_eol": -1535,
+          "days_until_eol": -1536,
           "latest": "12.22.12"
         },
         {
@@ -2491,7 +2491,7 @@
           "label": "Node.js 11",
           "eol": "2019-06-30",
           "status": "EOL",
-          "days_until_eol": -2570,
+          "days_until_eol": -2571,
           "latest": "11.15.0"
         },
         {
@@ -2499,7 +2499,7 @@
           "label": "Node.js 10",
           "eol": "2021-04-30",
           "status": "EOL",
-          "days_until_eol": -1900,
+          "days_until_eol": -1901,
           "latest": "10.24.1"
         },
         {
@@ -2507,7 +2507,7 @@
           "label": "Node.js 9",
           "eol": "2018-06-30",
           "status": "EOL",
-          "days_until_eol": -2935,
+          "days_until_eol": -2936,
           "latest": "9.11.2"
         },
         {
@@ -2515,7 +2515,7 @@
           "label": "Node.js 8",
           "eol": "2019-12-31",
           "status": "EOL",
-          "days_until_eol": -2386,
+          "days_until_eol": -2387,
           "latest": "8.17.0"
         },
         {
@@ -2523,7 +2523,7 @@
           "label": "Node.js 7",
           "eol": "2017-06-30",
           "status": "EOL",
-          "days_until_eol": -3300,
+          "days_until_eol": -3301,
           "latest": "7.10.1"
         },
         {
@@ -2531,7 +2531,7 @@
           "label": "Node.js 6",
           "eol": "2019-04-30",
           "status": "EOL",
-          "days_until_eol": -2631,
+          "days_until_eol": -2632,
           "latest": "6.17.1"
         },
         {
@@ -2539,7 +2539,7 @@
           "label": "Node.js 5",
           "eol": "2016-06-30",
           "status": "EOL",
-          "days_until_eol": -3665,
+          "days_until_eol": -3666,
           "latest": "5.12.0"
         },
         {
@@ -2547,7 +2547,7 @@
           "label": "Node.js 4",
           "eol": "2018-04-30",
           "status": "EOL",
-          "days_until_eol": -2996,
+          "days_until_eol": -2997,
           "latest": "4.9.1"
         },
         {
@@ -2585,7 +2585,7 @@
           "label": "PostgreSQL 18",
           "eol": "2030-11-14",
           "status": "SUPPORTED",
-          "days_until_eol": 1585,
+          "days_until_eol": 1584,
           "latest": "18.4"
         },
         {
@@ -2593,7 +2593,7 @@
           "label": "PostgreSQL 17",
           "eol": "2029-11-08",
           "status": "SUPPORTED",
-          "days_until_eol": 1214,
+          "days_until_eol": 1213,
           "latest": "17.10"
         },
         {
@@ -2601,7 +2601,7 @@
           "label": "PostgreSQL 16",
           "eol": "2028-11-09",
           "status": "SUPPORTED",
-          "days_until_eol": 850,
+          "days_until_eol": 849,
           "latest": "16.14"
         },
         {
@@ -2609,7 +2609,7 @@
           "label": "PostgreSQL 15",
           "eol": "2027-11-11",
           "status": "SUPPORTED",
-          "days_until_eol": 486,
+          "days_until_eol": 485,
           "latest": "15.18"
         },
         {
@@ -2617,7 +2617,7 @@
           "label": "PostgreSQL 14",
           "eol": "2026-11-12",
           "status": "SUPPORTED",
-          "days_until_eol": 122,
+          "days_until_eol": 121,
           "latest": "14.23"
         },
         {
@@ -2625,7 +2625,7 @@
           "label": "PostgreSQL 13",
           "eol": "2025-11-13",
           "status": "EOL",
-          "days_until_eol": -242,
+          "days_until_eol": -243,
           "latest": "13.23"
         },
         {
@@ -2633,7 +2633,7 @@
           "label": "PostgreSQL 12",
           "eol": "2024-11-21",
           "status": "EOL",
-          "days_until_eol": -599,
+          "days_until_eol": -600,
           "latest": "12.22"
         },
         {
@@ -2641,7 +2641,7 @@
           "label": "PostgreSQL 11",
           "eol": "2023-11-09",
           "status": "EOL",
-          "days_until_eol": -977,
+          "days_until_eol": -978,
           "latest": "11.22"
         },
         {
@@ -2649,7 +2649,7 @@
           "label": "PostgreSQL 10",
           "eol": "2022-11-10",
           "status": "EOL",
-          "days_until_eol": -1341,
+          "days_until_eol": -1342,
           "latest": "10.23"
         },
         {
@@ -2657,7 +2657,7 @@
           "label": "PostgreSQL 9.6",
           "eol": "2021-11-11",
           "status": "EOL",
-          "days_until_eol": -1705,
+          "days_until_eol": -1706,
           "latest": "9.6.24"
         },
         {
@@ -2665,7 +2665,7 @@
           "label": "PostgreSQL 9.5",
           "eol": "2021-02-11",
           "status": "EOL",
-          "days_until_eol": -1978,
+          "days_until_eol": -1979,
           "latest": "9.5.25"
         },
         {
@@ -2673,7 +2673,7 @@
           "label": "PostgreSQL 9.4",
           "eol": "2020-02-13",
           "status": "EOL",
-          "days_until_eol": -2342,
+          "days_until_eol": -2343,
           "latest": "9.4.26"
         },
         {
@@ -2681,7 +2681,7 @@
           "label": "PostgreSQL 9.3",
           "eol": "2018-11-08",
           "status": "EOL",
-          "days_until_eol": -2804,
+          "days_until_eol": -2805,
           "latest": "9.3.25"
         },
         {
@@ -2689,7 +2689,7 @@
           "label": "PostgreSQL 9.2",
           "eol": "2017-11-09",
           "status": "EOL",
-          "days_until_eol": -3168,
+          "days_until_eol": -3169,
           "latest": "9.2.24"
         },
         {
@@ -2697,7 +2697,7 @@
           "label": "PostgreSQL 9.1",
           "eol": "2016-10-27",
           "status": "EOL",
-          "days_until_eol": -3546,
+          "days_until_eol": -3547,
           "latest": "9.1.24"
         },
         {
@@ -2705,7 +2705,7 @@
           "label": "PostgreSQL 9.0",
           "eol": "2015-10-08",
           "status": "EOL",
-          "days_until_eol": -3931,
+          "days_until_eol": -3932,
           "latest": "9.0.23"
         },
         {
@@ -2713,7 +2713,7 @@
           "label": "PostgreSQL 8.4",
           "eol": "2014-07-24",
           "status": "EOL",
-          "days_until_eol": -4372,
+          "days_until_eol": -4373,
           "latest": "8.4.22"
         },
         {
@@ -2721,7 +2721,7 @@
           "label": "PostgreSQL 8.3",
           "eol": "2013-02-07",
           "status": "EOL",
-          "days_until_eol": -4904,
+          "days_until_eol": -4905,
           "latest": "8.3.23"
         },
         {
@@ -2729,7 +2729,7 @@
           "label": "PostgreSQL 8.2",
           "eol": "2011-12-05",
           "status": "EOL",
-          "days_until_eol": -5334,
+          "days_until_eol": -5335,
           "latest": "8.2.23"
         },
         {
@@ -2737,7 +2737,7 @@
           "label": "PostgreSQL 8.1",
           "eol": "2010-11-08",
           "status": "EOL",
-          "days_until_eol": -5726,
+          "days_until_eol": -5727,
           "latest": "8.1.23"
         },
         {
@@ -2745,7 +2745,7 @@
           "label": "PostgreSQL 8.0",
           "eol": "2010-10-01",
           "status": "EOL",
-          "days_until_eol": -5764,
+          "days_until_eol": -5765,
           "latest": "8.0.26"
         },
         {
@@ -2753,7 +2753,7 @@
           "label": "PostgreSQL 7.4",
           "eol": "2010-10-01",
           "status": "EOL",
-          "days_until_eol": -5764,
+          "days_until_eol": -5765,
           "latest": "7.4.30"
         },
         {
@@ -2761,7 +2761,7 @@
           "label": "PostgreSQL 7.3",
           "eol": "2007-11-27",
           "status": "EOL",
-          "days_until_eol": -6803,
+          "days_until_eol": -6804,
           "latest": "7.3.21"
         },
         {
@@ -2769,7 +2769,7 @@
           "label": "PostgreSQL 7.2",
           "eol": "2007-02-04",
           "status": "EOL",
-          "days_until_eol": -7099,
+          "days_until_eol": -7100,
           "latest": "7.2.8"
         },
         {
@@ -2777,7 +2777,7 @@
           "label": "PostgreSQL 7.1",
           "eol": "2006-04-13",
           "status": "EOL",
-          "days_until_eol": -7396,
+          "days_until_eol": -7397,
           "latest": "7.1.3"
         },
         {
@@ -2785,7 +2785,7 @@
           "label": "PostgreSQL 7.0",
           "eol": "2005-05-08",
           "status": "EOL",
-          "days_until_eol": -7736,
+          "days_until_eol": -7737,
           "latest": "7.0.3"
         },
         {
@@ -2793,7 +2793,7 @@
           "label": "PostgreSQL 6.5",
           "eol": "2004-06-09",
           "status": "EOL",
-          "days_until_eol": -8069,
+          "days_until_eol": -8070,
           "latest": "6.5.3"
         },
         {
@@ -2801,7 +2801,7 @@
           "label": "PostgreSQL 6.4",
           "eol": "2003-10-30",
           "status": "EOL",
-          "days_until_eol": -8292,
+          "days_until_eol": -8293,
           "latest": "6.4.2"
         },
         {
@@ -2809,7 +2809,7 @@
           "label": "PostgreSQL 6.3",
           "eol": "2003-03-01",
           "status": "EOL",
-          "days_until_eol": -8535,
+          "days_until_eol": -8536,
           "latest": "6.3.2"
         }
       ]
@@ -2823,7 +2823,7 @@
           "label": "MySQL 9.7",
           "eol": "2034-04-21",
           "status": "SUPPORTED",
-          "days_until_eol": 2839,
+          "days_until_eol": 2838,
           "latest": "9.7.1"
         },
         {
@@ -2831,7 +2831,7 @@
           "label": "MySQL 9.6",
           "eol": "2026-04-21",
           "status": "EOL",
-          "days_until_eol": -83,
+          "days_until_eol": -84,
           "latest": "9.6.1"
         },
         {
@@ -2839,7 +2839,7 @@
           "label": "MySQL 9.5",
           "eol": "2026-01-20",
           "status": "EOL",
-          "days_until_eol": -174,
+          "days_until_eol": -175,
           "latest": "9.5.2"
         },
         {
@@ -2847,7 +2847,7 @@
           "label": "MySQL 9.4",
           "eol": "2025-10-21",
           "status": "EOL",
-          "days_until_eol": -265,
+          "days_until_eol": -266,
           "latest": "9.4.2"
         },
         {
@@ -2855,7 +2855,7 @@
           "label": "MySQL 9.3",
           "eol": "2025-07-22",
           "status": "EOL",
-          "days_until_eol": -356,
+          "days_until_eol": -357,
           "latest": "9.3.2"
         },
         {
@@ -2863,7 +2863,7 @@
           "label": "MySQL 9.2",
           "eol": "2025-04-15",
           "status": "EOL",
-          "days_until_eol": -454,
+          "days_until_eol": -455,
           "latest": "9.2.2"
         },
         {
@@ -2871,7 +2871,7 @@
           "label": "MySQL 9.1",
           "eol": "2025-01-21",
           "status": "EOL",
-          "days_until_eol": -538,
+          "days_until_eol": -539,
           "latest": "9.1.2"
         },
         {
@@ -2879,7 +2879,7 @@
           "label": "MySQL 9.0",
           "eol": "2024-10-15",
           "status": "EOL",
-          "days_until_eol": -636,
+          "days_until_eol": -637,
           "latest": "9.0.1"
         },
         {
@@ -2887,7 +2887,7 @@
           "label": "MySQL 8.4",
           "eol": "2032-04-30",
           "status": "SUPPORTED",
-          "days_until_eol": 2118,
+          "days_until_eol": 2117,
           "latest": "8.4.10"
         },
         {
@@ -2895,7 +2895,7 @@
           "label": "MySQL 8.3",
           "eol": "2024-04-10",
           "status": "EOL",
-          "days_until_eol": -824,
+          "days_until_eol": -825,
           "latest": "8.3.0"
         },
         {
@@ -2903,7 +2903,7 @@
           "label": "MySQL 8.2",
           "eol": "2023-12-14",
           "status": "EOL",
-          "days_until_eol": -942,
+          "days_until_eol": -943,
           "latest": "8.2.0"
         },
         {
@@ -2911,7 +2911,7 @@
           "label": "MySQL 8.1",
           "eol": "2023-10-25",
           "status": "EOL",
-          "days_until_eol": -992,
+          "days_until_eol": -993,
           "latest": "8.1.0"
         },
         {
@@ -2919,7 +2919,7 @@
           "label": "MySQL 8.0",
           "eol": "2026-04-30",
           "status": "EOL",
-          "days_until_eol": -74,
+          "days_until_eol": -75,
           "latest": "8.0.46"
         },
         {
@@ -2927,7 +2927,7 @@
           "label": "MySQL 5.7",
           "eol": "2023-10-31",
           "status": "EOL",
-          "days_until_eol": -986,
+          "days_until_eol": -987,
           "latest": "5.7.44"
         },
         {
@@ -2935,7 +2935,7 @@
           "label": "MySQL 5.6",
           "eol": "2021-02-28",
           "status": "EOL",
-          "days_until_eol": -1961,
+          "days_until_eol": -1962,
           "latest": "5.6.51"
         },
         {
@@ -2943,7 +2943,7 @@
           "label": "MySQL 5.5",
           "eol": "2018-12-31",
           "status": "EOL",
-          "days_until_eol": -2751,
+          "days_until_eol": -2752,
           "latest": "5.5.63"
         }
       ]
@@ -2965,7 +2965,7 @@
           "label": "2019 CU15 SU8",
           "eol": "2025-10-14",
           "status": "EOL",
-          "days_until_eol": -272,
+          "days_until_eol": -273,
           "latest": "15.2.1748.46"
         },
         {
@@ -2973,7 +2973,7 @@
           "label": "2016 CU23 SU22",
           "eol": "2025-10-14",
           "status": "EOL",
-          "days_until_eol": -272,
+          "days_until_eol": -273,
           "latest": "15.1.2507.69"
         },
         {
@@ -2981,7 +2981,7 @@
           "label": "2013 CU23 SU21",
           "eol": "2023-04-11",
           "status": "EOL",
-          "days_until_eol": -1189,
+          "days_until_eol": -1190,
           "latest": "15.0.1497.48"
         },
         {
@@ -2989,7 +2989,7 @@
           "label": "2010 SP3 UR32",
           "eol": "2020-10-13",
           "status": "EOL",
-          "days_until_eol": -2099,
+          "days_until_eol": -2100,
           "latest": "14.3.513.0"
         },
         {
@@ -2997,7 +2997,7 @@
           "label": "2007 SP3 UR23",
           "eol": "2017-04-11",
           "status": "EOL",
-          "days_until_eol": -3380,
+          "days_until_eol": -3381,
           "latest": "8.3.517.0"
         },
         {
@@ -3005,7 +3005,7 @@
           "label": "2003 SP2",
           "eol": "2014-04-08",
           "status": "EOL",
-          "days_until_eol": -4479,
+          "days_until_eol": -4480,
           "latest": "6.5.7654.4"
         },
         {
@@ -3013,7 +3013,7 @@
           "label": "2000 SP3",
           "eol": "2011-01-11",
           "status": "EOL",
-          "days_until_eol": -5662,
+          "days_until_eol": -5663,
           "latest": "6.0.6620.7"
         },
         {
@@ -3021,7 +3021,7 @@
           "label": "5.5 SP4",
           "eol": "2006-01-10",
           "status": "EOL",
-          "days_until_eol": -7489,
+          "days_until_eol": -7490,
           "latest": "5.5.2653"
         },
         {
@@ -3029,7 +3029,7 @@
           "label": "5.0 SP2",
           "eol": "2006-01-10",
           "status": "EOL",
-          "days_until_eol": -7489,
+          "days_until_eol": -7490,
           "latest": "5.0.1460"
         },
         {
@@ -3051,7 +3051,7 @@
           "label": "2025",
           "eol": "2036-01-06",
           "status": "SUPPORTED",
-          "days_until_eol": 3464,
+          "days_until_eol": 3463,
           "latest": "17.0.4055.5 CU6"
         },
         {
@@ -3059,7 +3059,7 @@
           "label": "2022 '__CODENAME__'",
           "eol": "2033-01-11",
           "status": "SUPPORTED",
-          "days_until_eol": 2374,
+          "days_until_eol": 2373,
           "latest": "16.0.4255.1 CU25"
         },
         {
@@ -3067,7 +3067,7 @@
           "label": "2016 SP3 Azure Connect Pack",
           "eol": "2026-07-14",
           "status": "EOL_SOON",
-          "days_until_eol": 1,
+          "days_until_eol": 0,
           "latest": "13.0.7085.1 Azure Connect pack+GDR"
         },
         {
@@ -3075,7 +3075,7 @@
           "label": "2016 SP3",
           "eol": "2026-07-14",
           "status": "EOL_SOON",
-          "days_until_eol": 1,
+          "days_until_eol": 0,
           "latest": "13.0.6490.1 GDR"
         },
         {
@@ -3083,7 +3083,7 @@
           "label": "2019 '__CODENAME__'",
           "eol": "2030-01-08",
           "status": "SUPPORTED",
-          "days_until_eol": 1275,
+          "days_until_eol": 1274,
           "latest": "15.0.4470.1 CU32+GDR"
         },
         {
@@ -3091,7 +3091,7 @@
           "label": "2014 '__CODENAME__' SP3",
           "eol": "2024-07-09",
           "status": "EOL",
-          "days_until_eol": -734,
+          "days_until_eol": -735,
           "latest": "12.0.6449.1 CU4+GDR"
         },
         {
@@ -3099,7 +3099,7 @@
           "label": "2016 SP2",
           "eol": "2022-10-11",
           "status": "EOL",
-          "days_until_eol": -1371,
+          "days_until_eol": -1372,
           "latest": "13.0.5893.48 CU17+GDR"
         },
         {
@@ -3107,7 +3107,7 @@
           "label": "2012 '__CODENAME__' SP4",
           "eol": "2022-07-12",
           "status": "EOL",
-          "days_until_eol": -1462,
+          "days_until_eol": -1463,
           "latest": "11.0.7512.11 GDR"
         },
         {
@@ -3115,7 +3115,7 @@
           "label": "2017 '__CODENAME__'",
           "eol": "2027-10-12",
           "status": "SUPPORTED",
-          "days_until_eol": 456,
+          "days_until_eol": 455,
           "latest": "14.0.3530.2 CU31+GDR"
         },
         {
@@ -3123,7 +3123,7 @@
           "label": "2016 SP1",
           "eol": "2019-07-09",
           "status": "EOL",
-          "days_until_eol": -2561,
+          "days_until_eol": -2562,
           "latest": "13.0.4604.0 CU15+GDR"
         },
         {
@@ -3131,7 +3131,7 @@
           "label": "2014 '__CODENAME__' SP2",
           "eol": "2020-01-14",
           "status": "EOL",
-          "days_until_eol": -2372,
+          "days_until_eol": -2373,
           "latest": "12.0.5687.1 CU18"
         },
         {
@@ -3139,7 +3139,7 @@
           "label": "2016",
           "eol": "2018-01-09",
           "status": "EOL",
-          "days_until_eol": -3107,
+          "days_until_eol": -3108,
           "latest": "13.0.2218.0 CU9+GDR"
         },
         {
@@ -3147,7 +3147,7 @@
           "label": "2012 '__CODENAME__' SP3",
           "eol": "2018-10-09",
           "status": "EOL",
-          "days_until_eol": -2834,
+          "days_until_eol": -2835,
           "latest": "11.0.6614.2 CU10+QFE"
         },
         {
@@ -3155,7 +3155,7 @@
           "label": "2014 '__CODENAME__' SP1",
           "eol": "2017-10-10",
           "status": "EOL",
-          "days_until_eol": -3198,
+          "days_until_eol": -3199,
           "latest": "12.0.4522.0 CU13"
         },
         {
@@ -3163,7 +3163,7 @@
           "label": "2008 R2 '__CODENAME__' SP3",
           "eol": "2019-07-09",
           "status": "EOL",
-          "days_until_eol": -2561,
+          "days_until_eol": -2562,
           "latest": "10.50.6785.2 GDR"
         },
         {
@@ -3171,7 +3171,7 @@
           "label": "2008 '__CODENAME__' SP4",
           "eol": "2019-07-09",
           "status": "EOL",
-          "days_until_eol": -2561,
+          "days_until_eol": -2562,
           "latest": "10.0.6814.4 CU17+GDR"
         },
         {
@@ -3179,7 +3179,7 @@
           "label": "2012 '__CODENAME__' SP2",
           "eol": "2017-01-10",
           "status": "EOL",
-          "days_until_eol": -3471,
+          "days_until_eol": -3472,
           "latest": "11.0.5678.0 CU16"
         },
         {
@@ -3187,7 +3187,7 @@
           "label": "2014 '__CODENAME__'",
           "eol": "2016-07-12",
           "status": "EOL",
-          "days_until_eol": -3653,
+          "days_until_eol": -3654,
           "latest": "12.0.2569.0 CU14"
         },
         {
@@ -3195,7 +3195,7 @@
           "label": "2012 '__CODENAME__' SP1",
           "eol": "2015-07-14",
           "status": "EOL",
-          "days_until_eol": -4017,
+          "days_until_eol": -4018,
           "latest": "11.0.3513.0 CU13+QFE"
         },
         {
@@ -3203,7 +3203,7 @@
           "label": "2008 R2 '__CODENAME__' SP2",
           "eol": "2015-10-13",
           "status": "EOL",
-          "days_until_eol": -3926,
+          "days_until_eol": -3927,
           "latest": "10.50.4339.0 CU13+QFE"
         },
         {
@@ -3211,7 +3211,7 @@
           "label": "2012 '__CODENAME__'",
           "eol": "2014-01-14",
           "status": "EOL",
-          "days_until_eol": -4563,
+          "days_until_eol": -4564,
           "latest": "11.0.2424.0 CU11"
         },
         {
@@ -3219,7 +3219,7 @@
           "label": "2008 '__CODENAME__' SP3",
           "eol": "2015-10-13",
           "status": "EOL",
-          "days_until_eol": -3926,
+          "days_until_eol": -3927,
           "latest": "10.00.5861 CU16+QFE"
         },
         {
@@ -3227,7 +3227,7 @@
           "label": "2008 R2 '__CODENAME__' SP1",
           "eol": "2013-10-08",
           "status": "EOL",
-          "days_until_eol": -4661,
+          "days_until_eol": -4662,
           "latest": "10.50.2881.0 CU14"
         },
         {
@@ -3235,7 +3235,7 @@
           "label": "2005 '__CODENAME__' SP4",
           "eol": "2016-04-12",
           "status": "EOL",
-          "days_until_eol": -3744,
+          "days_until_eol": -3745,
           "latest": "9.0.5324.0 QFE"
         },
         {
@@ -3243,7 +3243,7 @@
           "label": "2008 '__CODENAME__' SP2",
           "eol": "2012-10-09",
           "status": "EOL",
-          "days_until_eol": -5025,
+          "days_until_eol": -5026,
           "latest": "10.00.4371 CU10+QFE"
         },
         {
@@ -3251,7 +3251,7 @@
           "label": "2008 '__CODENAME__' R2",
           "eol": "2012-07-10",
           "status": "EOL",
-          "days_until_eol": -5116,
+          "days_until_eol": -5117,
           "latest": "10.50.1815.0 CU13"
         },
         {
@@ -3259,7 +3259,7 @@
           "label": "2008 '__CODENAME__' SP1",
           "eol": "2011-10-11",
           "status": "EOL",
-          "days_until_eol": -5389,
+          "days_until_eol": -5390,
           "latest": "10.00.2850 CU16"
         },
         {
@@ -3267,7 +3267,7 @@
           "label": "2005 '__CODENAME__' SP3",
           "eol": "2012-01-10",
           "status": "EOL",
-          "days_until_eol": -5298,
+          "days_until_eol": -5299,
           "latest": "9.00.4309 CU11"
         },
         {
@@ -3275,7 +3275,7 @@
           "label": "2008 '__CODENAME__'",
           "eol": "2010-04-13",
           "status": "EOL",
-          "days_until_eol": -5935,
+          "days_until_eol": -5936,
           "latest": "10.00.1835 CU10"
         },
         {
@@ -3283,7 +3283,7 @@
           "label": "2005 '__CODENAME__' SP2",
           "eol": "2010-01-12",
           "status": "EOL",
-          "days_until_eol": -6026,
+          "days_until_eol": -6027,
           "latest": "9.00.3325 CU13"
         },
         {
@@ -3291,7 +3291,7 @@
           "label": "2005 '__CODENAME__' SP1",
           "eol": "2008-04-08",
           "status": "EOL",
-          "days_until_eol": -6670,
+          "days_until_eol": -6671,
           "latest": "9.0.2233"
         },
         {
@@ -3299,7 +3299,7 @@
           "label": "2005 '__CODENAME__'",
           "eol": "2007-07-10",
           "status": "EOL",
-          "days_until_eol": -6943,
+          "days_until_eol": -6944,
           "latest": "9.0.1399"
         },
         {
@@ -3307,7 +3307,7 @@
           "label": "2000 '__CODENAME__' SP4",
           "eol": "2013-04-09",
           "status": "EOL",
-          "days_until_eol": -4843,
+          "days_until_eol": -4844,
           "latest": "8.0.2305 QFE"
         },
         {
@@ -3315,7 +3315,7 @@
           "label": "7.0 '__CODENAME__' SP4",
           "eol": "2011-01-11",
           "status": "EOL",
-          "days_until_eol": -5662,
+          "days_until_eol": -5663,
           "latest": "7.0.1152"
         },
         {
@@ -3323,7 +3323,7 @@
           "label": "6.5 '__CODENAME__' SP5a",
           "eol": "2002-01-01",
           "status": "EOL",
-          "days_until_eol": -8959,
+          "days_until_eol": -8960,
           "latest": "6.50.480"
         },
         {
@@ -3331,7 +3331,7 @@
           "label": "6.0 '__CODENAME__' SP3",
           "eol": "1999-03-31",
           "status": "EOL",
-          "days_until_eol": -9966,
+          "days_until_eol": -9967,
           "latest": "6.0.151"
         }
       ]
@@ -3345,7 +3345,7 @@
           "label": "Microsoft Office 2024",
           "eol": "2029-10-09",
           "status": "SUPPORTED",
-          "days_until_eol": 1184,
+          "days_until_eol": 1183,
           "latest": ""
         },
         {
@@ -3353,7 +3353,7 @@
           "label": "2024 LTSC",
           "eol": "2029-10-09",
           "status": "SUPPORTED",
-          "days_until_eol": 1184,
+          "days_until_eol": 1183,
           "latest": ""
         },
         {
@@ -3361,7 +3361,7 @@
           "label": "Microsoft Office 2021",
           "eol": "2026-10-13",
           "status": "SUPPORTED",
-          "days_until_eol": 92,
+          "days_until_eol": 91,
           "latest": ""
         },
         {
@@ -3369,7 +3369,7 @@
           "label": "Microsoft Office 2019",
           "eol": "2025-10-14",
           "status": "EOL",
-          "days_until_eol": -272,
+          "days_until_eol": -273,
           "latest": ""
         },
         {
@@ -3377,7 +3377,7 @@
           "label": "Microsoft Office 2016",
           "eol": "2025-10-14",
           "status": "EOL",
-          "days_until_eol": -272,
+          "days_until_eol": -273,
           "latest": ""
         },
         {
@@ -3385,7 +3385,7 @@
           "label": "2013 SP1",
           "eol": "2023-04-11",
           "status": "EOL",
-          "days_until_eol": -1189,
+          "days_until_eol": -1190,
           "latest": ""
         },
         {
@@ -3393,7 +3393,7 @@
           "label": "2011 for Mac SP3",
           "eol": "2017-10-10",
           "status": "EOL",
-          "days_until_eol": -3198,
+          "days_until_eol": -3199,
           "latest": ""
         },
         {
@@ -3401,7 +3401,7 @@
           "label": "2010 SP2",
           "eol": "2020-10-13",
           "status": "EOL",
-          "days_until_eol": -2099,
+          "days_until_eol": -2100,
           "latest": ""
         },
         {
@@ -3409,7 +3409,7 @@
           "label": "2008 for Mac SP2",
           "eol": "2013-04-09",
           "status": "EOL",
-          "days_until_eol": -4843,
+          "days_until_eol": -4844,
           "latest": ""
         },
         {
@@ -3417,7 +3417,7 @@
           "label": "2007 SP3",
           "eol": "2017-10-10",
           "status": "EOL",
-          "days_until_eol": -3198,
+          "days_until_eol": -3199,
           "latest": ""
         }
       ]
@@ -3431,15 +3431,15 @@
           "label": "VMware ESXi 9.1",
           "eol": "2028-08-12",
           "status": "SUPPORTED",
-          "days_until_eol": 761,
-          "latest": "9.1.0.0100"
+          "days_until_eol": 760,
+          "latest": "9.1.0.0200"
         },
         {
           "cycle": "9.0",
           "label": "VMware ESXi 9.0",
           "eol": "2027-09-17",
           "status": "SUPPORTED",
-          "days_until_eol": 431,
+          "days_until_eol": 430,
           "latest": "9.0.2.0"
         },
         {
@@ -3447,7 +3447,7 @@
           "label": "VMware ESXi 8.0",
           "eol": "2027-10-11",
           "status": "SUPPORTED",
-          "days_until_eol": 455,
+          "days_until_eol": 454,
           "latest": "8.0 Update 3j"
         },
         {
@@ -3455,7 +3455,7 @@
           "label": "VMware ESXi 7.0",
           "eol": "2025-10-02",
           "status": "EOL",
-          "days_until_eol": -284,
+          "days_until_eol": -285,
           "latest": "7.0 Update 3w"
         },
         {
@@ -3463,7 +3463,7 @@
           "label": "VMware ESXi 6.7",
           "eol": "2022-10-15",
           "status": "EOL",
-          "days_until_eol": -1367,
+          "days_until_eol": -1368,
           "latest": "6.7 Update 3w"
         },
         {
@@ -3471,7 +3471,7 @@
           "label": "VMware ESXi 6.5",
           "eol": "2022-10-15",
           "status": "EOL",
-          "days_until_eol": -1367,
+          "days_until_eol": -1368,
           "latest": "6.5 ESXi650-202403001"
         },
         {
@@ -3479,7 +3479,7 @@
           "label": "VMware ESXi 6.0",
           "eol": "2020-03-12",
           "status": "EOL",
-          "days_until_eol": -2314,
+          "days_until_eol": -2315,
           "latest": "6.0 EP 25"
         },
         {
@@ -3487,7 +3487,7 @@
           "label": "VMware ESXi 5.5",
           "eol": "2018-09-19",
           "status": "EOL",
-          "days_until_eol": -2854,
+          "days_until_eol": -2855,
           "latest": "5.5 Update 3k"
         },
         {
@@ -3495,7 +3495,7 @@
           "label": "VMware ESXi 5.1",
           "eol": "2016-08-24",
           "status": "EOL",
-          "days_until_eol": -3610,
+          "days_until_eol": -3611,
           "latest": "5.1 Update 3d"
         },
         {
@@ -3503,7 +3503,7 @@
           "label": "VMware ESXi 5.0",
           "eol": "2016-08-24",
           "status": "EOL",
-          "days_until_eol": -3610,
+          "days_until_eol": -3611,
           "latest": "5.0 Update 3g"
         }
       ]
